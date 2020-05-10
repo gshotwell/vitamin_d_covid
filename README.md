@@ -7,7 +7,7 @@
 
 # Vitamin D / Covid correlations
 - Vitamin D deficiency is [very common](https://www.ncbi.nlm.nih.gov/pubmed/12856111) in places that have been hit hard by the disease.
-- [Black and Asian](https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1.full.pdf) populations are at a high risk of Covid morality.
+- [Black and Asian](https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1.full.pdf) populations are at a high risk of Covid morality. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067096/) have found a relationship between skin pigmentation an vitamin D levels, but [others](https://www.nejm.org/doi/full/10.1056/NEJMoa1306357) have found that there is no difference in bio-available vitamin D because of differences in genetic polymorphisms related to vitamin D–binding protein. 
 - Vitamin D reduces the risk of [thrombosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4069050/) which is one of the [puzzling symptoms](https://www.nature.com/articles/d41586-020-01403-8) of Covid-19
 - Kawasaki disease was weakly associated with vitamin D supplementation [at birth](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-019-1438-2) and KD patients had [lower levels](https://pubmed.ncbi.nlm.nih.gov/25994612/) of vitamin D. There is [an association](https://academic.oup.com/jid/article/191/4/499/937208) with Covid-19 and a syndrome similar to Kawasaki disease in children. 
 
