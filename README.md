@@ -23,6 +23,6 @@
 - Vitamin D [may bind](https://www.preprints.org/manuscript/202005.0084/v1) to the  non-structural protein nsp7 on the SARS-CoV-2 virus.
 
 # Vitamin D background
-- Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections.
+- Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this metanalysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
 
 
