@@ -26,4 +26,13 @@
 # Vitamin D background
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
 
+# Studies I don't know what to do with
+- Vitamin D levels between 2006-2010 [were associated](https://www.sciencedirect.com/science/article/pii/S1871402120301156) with Covid-19 mortality, but not after controlling for every other variable in the dataset. I don't know what to do with this study because there's a causal story in which low vitamin D in 2010 _increases_ vitamin D in 2020 because that group is likely to supplement.
+
+
+
+
+
+
+
 
