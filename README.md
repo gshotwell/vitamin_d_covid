@@ -14,6 +14,7 @@
 # Race and Covid
 - [Black and Asian](https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1.full.pdf) populations are at a high risk of Covid morality. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067096/) have found a relationship between skin pigmentation an vitamin D levels, but [others](https://www.nejm.org/doi/full/10.1056/NEJMoa1306357) have found that there is no difference in bio-available vitamin D because of differences in genetic polymorphisms related to vitamin D–binding protein. Interestingly, vitamin D binding protein is [itself associated](https://thorax.bmj.com/content/65/5/456) with infectious lung diseases.
 - There are [lots of other factors](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31102-8/fulltext) which vary by race and which make Covid mortality more likely. These do not fully explain the race gap.
+- BAIPO, which represents UK doctors of Indian origin [wrote to the NHS](https://drive.google.com/file/d/1zU3yT7wE8folyKUmIX6NbIg2K3P6ffUD/view) advocating for vitamin D testing and supplementation for front line staff. They are providing all members with vitamin D on request.
 
 # Supplementation in the absence of evidence
 - 
@@ -29,6 +30,7 @@
 
 - Vitamin D helps regulate the [renin angiotensin system](https://youtu.be/Nfp4X4O87DQ?t=1499) which includes the ACE2 receptor that Covid-19 binds to.
 - Vitamin D [may bind](https://www.preprints.org/manuscript/202005.0084/v1) to the  non-structural protein nsp7 on the SARS-CoV-2 virus.
+- An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) outlines a number of potential mechanisms.
 
 # Vitamin D background
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
