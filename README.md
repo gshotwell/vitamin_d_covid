@@ -26,7 +26,7 @@
 # Supplementation in the absence of evidence
 -  Evidence that Vitamin D Supplementation [Could Reduce Risk](https://www.mdpi.com/2072-6643/12/4/988/htm) of Influenza and COVID-19 Infections and Deaths
 
-## Latitude and UVB radiation
+# Latitude and UVB radiation
 - UVB radiation, which the skin uses to manufacture vitamin D is [associated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586555#.XrA5awDBBLE.twitter) with lower death rates and case fatality rates.
 - Covid-19 deaths-per-million appears to [vary by latitude](https://www.ncbi.nlm.nih.gov/pubmed/32311755).
 - Latitude [was not associated](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) with a proportional increase in cases during one week of March.
@@ -48,7 +48,8 @@
 # Videos
 
 - MedCram: [Coronavirus Pandemic Update 59: Dr. Seheult's Daily Regimen (Vitamin D, C, Zinc, Quercetin, NAC)](https://www.youtube.com/watch?v=NM2A2xNLWR4)
-- John Campbell: [Lots of evidence](https://www.youtube.com/watch?v=GCSXNGc7pfs)  [Quite Compelling evidence]https://www.youtube.com/watch?v=1fxw3nTZYlA
+- John Campbell: [Lots of evidence](https://www.youtube.com/watch?v=GCSXNGc7pfs) 
+- John Campbell: [Quite Compelling evidence]https://www.youtube.com/watch?v=1fxw3nTZYlA
 - Ryan Rehl: [Vitamin D & the Upper Respiratory Tract](https://www.youtube.com/watch?v=fmDng_uMCnY)
 
 # More resources
