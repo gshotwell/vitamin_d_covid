@@ -39,8 +39,9 @@
 - An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) outlines a number of potential mechanisms.
 - The Essential Role of Vitamin D in the [Biosynthesis of Endogenous Antimicrobial Peptides](https://www.preprints.org/manuscript/202005.0265/v1) May Explain Why Deficiency Increases Mortality Risk in COVID-19 Infections
 
-# Vitamin D background
+# Vitamin D background and previous studies
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
+- Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/)
 
 # Studies refuting evidence of benefits
 - Vitamin D levels between 2006-2010 [were associated](https://www.sciencedirect.com/science/article/pii/S1871402120301156) with Covid-19 mortality, but not after controlling for every other variable in the dataset. I don't know what to do with this study because there's a causal story in which low vitamin D in 2010 _increases_ vitamin D in 2020 because that group is likely to supplement.
