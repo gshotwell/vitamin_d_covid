@@ -13,6 +13,11 @@
 - Authors of Article ‘Optimisation of Vitamin D Status for Enhanced Immuno-Protection against Covid-19’by McCartney et al. comment onresponse letter ‘Vitamin D and Covid-19: A Note of Caution’ by Rabbitt et al.[Link](http://imj.ie/wp-content/uploads/2020/05/McCartney-et-al-comment-on-Vitamin-D-and-Covid-19-A-Note-of-Caution-response-letter.pdf)
 - Vitamin D Deficiency and ARDS after SARS-CoV-2 Infection [Link](http://imj.ie/wp-content/uploads/2020/05/Vitamin-D-Deficiency-and-ARDS-after-SARS-CoV-2-Infection.pdf)
 
+# Clinical guidance
+- [This review](https://www.preprints.org/manuscript/202005.0265/v1) of potential vitamin D mechanisms of action provides some useful history on the origin of vitamin D dosing recommendations. They also review their clinical guidelines after treating several thousand patients with 5000-10000 IU/day, including recognizing and resolving  hypercalcemia or other adverse events.
+- [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers.
+
+
 # Vitamin D / Covid correlations
 - Vitamin D deficiency is [very common](https://www.ncbi.nlm.nih.gov/pubmed/12856111) in places that have been hit hard by the disease.
 - Vitamin D reduces the risk of [thrombosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4069050/) which is one of the [puzzling symptoms](https://www.nature.com/articles/d41586-020-01403-8) of Covid-19
@@ -38,6 +43,7 @@
 - Vitamin D [may bind](https://www.preprints.org/manuscript/202005.0084/v1) to the  non-structural protein nsp7 on the SARS-CoV-2 virus.
 - An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) outlines a number of potential mechanisms.
 - The Essential Role of Vitamin D in the [Biosynthesis of Endogenous Antimicrobial Peptides](https://www.preprints.org/manuscript/202005.0265/v1) May Explain Why Deficiency Increases Mortality Risk in COVID-19 Infections
+- Vitamn D is [essential](https://www.preprints.org/manuscript/202005.0265/v1) to the formation of antimicrobial peptides such as cathelicidin and beta defensins.  
 
 # Vitamin D background and previous studies
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
