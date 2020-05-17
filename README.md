@@ -49,7 +49,7 @@
 
 - MedCram: [Coronavirus Pandemic Update 59: Dr. Seheult's Daily Regimen (Vitamin D, C, Zinc, Quercetin, NAC)](https://www.youtube.com/watch?v=NM2A2xNLWR4)
 - John Campbell: [Lots of evidence](https://www.youtube.com/watch?v=GCSXNGc7pfs) 
-- John Campbell: [Quite Compelling evidence]https://www.youtube.com/watch?v=1fxw3nTZYlA
+- John Campbell: [Quite Compelling evidence](https://www.youtube.com/watch?v=1fxw3nTZYlA)
 - Ryan Rehl: [Vitamin D & the Upper Respiratory Tract](https://www.youtube.com/watch?v=fmDng_uMCnY)
 
 # More resources
