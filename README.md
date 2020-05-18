@@ -2,7 +2,7 @@
 
 - A re-analysis of [107 Swiss blood samples](https://www.mdpi.com/2072-6643/12/5/1359/htm) found that PCA positive patients had 25-hydroxyvitamin D concentrations half that of PCA negatives. This finding held after stratifying for age and gender.
 - A [restrospective study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571484) in the Philippines found a significant association between vitamin D status and severe Covid-19 infections.
-- An [Indonesian](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561) study of 712 people found that after controlling for age, gender, and co-morbidity, vitamin D deficiency was associated with a twelve times higher risk of death.
+- An [Indonesian](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561) study of 780 people found that after controlling for age, gender, and co-morbidity, vitamin D deficiency was associated with a twelve times higher risk of death.
 - Hospitalized male Covid-19 patients [were found](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v1) to have lower vitamin D levels than controls
 - A study out of [Northwestern University](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v3.full.pdf) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country.
 
