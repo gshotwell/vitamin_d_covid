@@ -24,7 +24,8 @@
 - BAIPO, which represents UK doctors of Indian origin [wrote to the NHS](https://drive.google.com/file/d/1zU3yT7wE8folyKUmIX6NbIg2K3P6ffUD/view) advocating for vitamin D testing and supplementation for front line staff. They are providing all members with vitamin D on request.
 
 # Supplementation in the absence of evidence
--  Evidence that Vitamin D Supplementation [Could Reduce Risk](https://www.mdpi.com/2072-6643/12/4/988/htm) of Influenza and COVID-19 Infections and Deaths
+- Evidence that Vitamin D Supplementation [Could Reduce Risk](https://www.mdpi.com/2072-6643/12/4/988/htm) of Influenza and COVID-19 Infections and Deaths
+- Nature - Perspective: [Improving vitamin D status in the management of COVID-19](https://www.nature.com/articles/s41430-020-0661-0)
 
 # Latitude and UVB radiation
 - UVB radiation, which the skin uses to manufacture vitamin D is [associated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586555#.XrA5awDBBLE.twitter) with lower death rates and case fatality rates.
@@ -42,6 +43,7 @@
 # Vitamin D background and previous studies
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
 - Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/)
+- Vitamin D and [the anti-viral state](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308600/)
 
 # Studies refuting evidence of benefits
 - Vitamin D levels between 2006-2010 [were associated](https://www.sciencedirect.com/science/article/pii/S1871402120301156) with Covid-19 mortality, but not after controlling for every other variable in the dataset. I don't know what to do with this study because there's a causal story in which low vitamin D in 2010 _increases_ vitamin D in 2020 because that group is likely to supplement.
