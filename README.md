@@ -30,6 +30,7 @@
 - [Black and Asian](https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1.full.pdf) populations are at a high risk of Covid morality. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067096/) have found a relationship between skin pigmentation an vitamin D levels, but [others](https://www.nejm.org/doi/full/10.1056/NEJMoa1306357) have found that there is no difference in bio-available vitamin D because of differences in genetic polymorphisms related to vitamin D–binding protein. Interestingly, vitamin D binding protein is [itself associated](https://thorax.bmj.com/content/65/5/456) with infectious lung diseases.
 - There are [lots of other factors](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31102-8/fulltext) which vary by race and which make Covid mortality more likely. These do not fully explain the race gap.
 - BAIPO, which represents UK doctors of Indian origin [wrote to the NHS](https://drive.google.com/file/d/1zU3yT7wE8folyKUmIX6NbIg2K3P6ffUD/view) advocating for vitamin D testing and supplementation for front line staff. They are providing all members with vitamin D on request.
+- Blacks/African Americans are [5 Times More Likely](https://www.medrxiv.org/content/10.1101/2020.05.14.20101691v1) to Develop COVID-19: Spatial Modeling of New York City ZIP Code-level Testing Results
 
 # Supplementation in the absence of evidence
 - Evidence that Vitamin D Supplementation [Could Reduce Risk](https://www.mdpi.com/2072-6643/12/4/988/htm) of Influenza and COVID-19 Infections and Deaths
@@ -60,7 +61,7 @@
 # Videos
 
 - MedCram: [Coronavirus Pandemic Update 59: Dr. Seheult's Daily Regimen (Vitamin D, C, Zinc, Quercetin, NAC)](https://www.youtube.com/watch?v=NM2A2xNLWR4)
-- John Campbell: [Lots of evidence](https://www.youtube.com/watch?v=GCSXNGc7pfs) 
+- John Campbell: [Lots of evidence](https://www.youtube.com/watch?v=GCSXNGc7pfs)
 - John Campbell: [Quite Compelling evidence](https://www.youtube.com/watch?v=1fxw3nTZYlA)
 - Ryan Rehl: [Vitamin D & the Upper Respiratory Tract](https://www.youtube.com/watch?v=fmDng_uMCnY)
 
