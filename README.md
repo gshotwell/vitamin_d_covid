@@ -5,6 +5,7 @@
 - An [Indonesian](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561) study of 780 people found that after controlling for age, gender, and co-morbidity, vitamin D deficiency was associated with a twelve times higher risk of death.
 - Hospitalized male Covid-19 patients [were found](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v1) to have lower vitamin D levels than controls
 - A study out of [Northwestern University](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v3.full.pdf) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country.
+- A [retrospective cohort](https://www.medrxiv.org/content/10.1101/2020.05.08.20095893v1.full.pdf) study found that Chicago patients who were likely vitamin D deficient were more likely to test positive for Covid-19.
 
 # Comprehensive debate by the Irish Medical Journal:
 - Covid-19, Cocooning, and Vitamin D Intake Requirements [Link](http://imj.ie/wp-content/uploads/2020/05/Covid-19-Cocooning-and-Vitamin-D-Intake-Requirements.pdf)
