@@ -6,7 +6,7 @@
 - Hospitalized male Covid-19 patients [were found](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v1) to have lower vitamin D levels than controls
 - A study out of [Northwestern University](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v3.full.pdf) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country.
 - A [retrospective cohort](https://www.medrxiv.org/content/10.1101/2020.05.08.20095893v1.full.pdf) study found that Chicago patients who were likely vitamin D deficient were more likely to test positive for Covid-19.
--  Lungs as Target of COVID-19 Infection: Protective Common Molecular Mechanisms of [Vitamin D and Melatonin as a New Potential Synergistic Treatment](https://pubmed.ncbi.nlm.nih.gov/32422305/)
+
 
 # Comprehensive debate by the Irish Medical Journal:
 - Covid-19, Cocooning, and Vitamin D Intake Requirements [Link](http://imj.ie/wp-content/uploads/2020/05/Covid-19-Cocooning-and-Vitamin-D-Intake-Requirements.pdf)
@@ -52,6 +52,7 @@
 - An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) outlines a number of potential mechanisms.
 - The Essential Role of Vitamin D in the [Biosynthesis of Endogenous Antimicrobial Peptides](https://www.preprints.org/manuscript/202005.0265/v1) May Explain Why Deficiency Increases Mortality Risk in COVID-19 Infections
 - Vitamin D is [essential](https://www.preprints.org/manuscript/202005.0265/v1) to the formation of antimicrobial peptides such as cathelicidin and beta defensins.  
+-  Lungs as Target of COVID-19 Infection: Protective Common Molecular Mechanisms of [Vitamin D and Melatonin as a New Potential Synergistic Treatment](https://pubmed.ncbi.nlm.nih.gov/32422305/)
 
 # Vitamin D background and previous studies
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
