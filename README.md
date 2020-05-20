@@ -20,7 +20,7 @@
 - [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers.
 - A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. 
 - A [bmj report](https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. 
-
+- Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) more than an acausal one.
 
 # Vitamin D / Covid correlations
 - Vitamin D deficiency is [very common](https://www.ncbi.nlm.nih.gov/pubmed/12856111) in places that have been hit hard by the disease.
@@ -32,6 +32,7 @@
 - There are [lots of other factors](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31102-8/fulltext) which vary by race and which make Covid mortality more likely. These do not fully explain the race gap.
 - BAIPO, which represents UK doctors of Indian origin [wrote to the NHS](https://drive.google.com/file/d/1zU3yT7wE8folyKUmIX6NbIg2K3P6ffUD/view) advocating for vitamin D testing and supplementation for front line staff. They are providing all members with vitamin D on request.
 - Blacks/African Americans are [5 Times More Likely](https://www.medrxiv.org/content/10.1101/2020.05.14.20101691v1) to Develop COVID-19: Spatial Modeling of New York City ZIP Code-level Testing Results
+- Excess African-American mortality in the US [was higher](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096) in southern states than northern states.
 
 # Supplementation in the absence of evidence
 - Evidence that Vitamin D Supplementation [Could Reduce Risk](https://www.mdpi.com/2072-6643/12/4/988/htm) of Influenza and COVID-19 Infections and Deaths
@@ -43,7 +44,6 @@
 - UVB radiation, which the skin uses to manufacture vitamin D is [associated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586555#.XrA5awDBBLE.twitter) with lower death rates and case fatality rates.
 - Covid-19 deaths-per-million appears to [vary by latitude](https://www.ncbi.nlm.nih.gov/pubmed/32311755).
 - Latitude [was not associated](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) with a proportional increase in cases during one week of March.
-- Latitude [was associated](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) with the severity of local Covid outbreaks by one measure of severity.
 
 # Potential Mechanisms
 
