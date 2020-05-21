@@ -63,19 +63,6 @@
 # Studies refuting evidence of benefits
 - Vitamin D levels between 2006-2010 [were associated](https://www.sciencedirect.com/science/article/pii/S1871402120301156) with Covid-19 mortality, but not after controlling for every other variable in the data set. I don't know what to do with this study because there's a causal story in which low vitamin D in 2010 _increases_ vitamin D in 2020 because that group is likely to supplement.
 
-# Videos
-
-- MedCram: [Coronavirus Pandemic Update 59: Dr. Seheult's Daily Regimen (Vitamin D, C, Zinc, Quercetin, NAC)](https://www.youtube.com/watch?v=NM2A2xNLWR4)
-- John Campbell: [Lots of evidence](https://www.youtube.com/watch?v=GCSXNGc7pfs)
-- John Campbell: [Quite Compelling evidence](https://www.youtube.com/watch?v=1fxw3nTZYlA)
-- Ryan Rehl: [Vitamin D & the Upper Respiratory Tract](https://www.youtube.com/watch?v=fmDng_uMCnY)
-
-# More resources
-
-- Vitamin D [wiki](https://vitamindwiki.com/)
-
-
-
 
 
 
