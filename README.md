@@ -33,6 +33,7 @@
 - BAIPO, which represents UK doctors of Indian origin [wrote to the NHS](https://drive.google.com/file/d/1zU3yT7wE8folyKUmIX6NbIg2K3P6ffUD/view) advocating for vitamin D testing and supplementation for front line staff. They are providing all members with vitamin D on request.
 - Blacks/African Americans are [5 Times More Likely](https://www.medrxiv.org/content/10.1101/2020.05.14.20101691v1) to Develop COVID-19: Spatial Modeling of New York City ZIP Code-level Testing Results
 - Excess African-American mortality in the US [was higher](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096) in southern states than northern states.
+- A dataset of [6 million US veterans](https://www.medrxiv.org/content/10.1101/2020.05.12.20099135v1) found that black and hispanic had higher rates of Covid-19 which were not explained by medical conditions or where they live or receive care.
 
 # Supplementation in the absence of evidence
 - Evidence that Vitamin D Supplementation [Could Reduce Risk](https://www.mdpi.com/2072-6643/12/4/988/htm) of Influenza and COVID-19 Infections and Deaths
