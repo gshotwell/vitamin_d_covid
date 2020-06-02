@@ -12,6 +12,8 @@
 - Hospitalized male Covid-19 patients [were found](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v1) to have lower vitamin D levels than controls
 - A study out of [Northwestern University](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v3.full.pdf) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country.
 - A [retrospective cohort](https://www.medrxiv.org/content/10.1101/2020.05.08.20095893v1.full.pdf) study found that Chicago patients who were likely vitamin D deficient were more likely to test positive for Covid-19.
+- A observational [study from Belgium](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v2) found that vitamin D deficiency is correlated with the risk for hospitalization for COVID-19 pneumonia and predisposes to more advanced radiological disease stages.
+- A [small cohort trial](https://www.medrxiv.org/content/10.1101/2020.06.01.20112334v1) found that just 16% of patients who received vitamin D, magneseum, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did  not receive DBM supplementation.
 
 
 # Comprehensive debate by the Irish Medical Journal:
