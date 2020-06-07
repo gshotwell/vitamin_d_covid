@@ -29,11 +29,13 @@
 - A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. 
 - A [bmj report](https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. 
 - Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) more than an acausal one.
+- A quarantine hospital in Egypt has [started providing](https://www.egypttoday.com/Article/1/88198/Doctors-in-Egypt%E2%80%99s-quarantine-hospitals-to-receive-million-Vitamin-D) vitamin D to frontline medical workers. 
 
 # Vitamin D / Covid correlations
 - Vitamin D deficiency is [very common](https://www.ncbi.nlm.nih.gov/pubmed/12856111) in places that have been hit hard by the disease.
 - Vitamin D reduces the risk of [thrombosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4069050/) which is one of the [puzzling symptoms](https://www.nature.com/articles/d41586-020-01403-8) of Covid-19
 - Kawasaki disease was weakly associated with vitamin D supplementation [at birth](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-019-1438-2) and KD patients had [lower levels](https://pubmed.ncbi.nlm.nih.gov/25994612/) of vitamin D. There is [an association](https://academic.oup.com/jid/article/191/4/499/937208) with Covid-19 and a syndrome similar to Kawasaki disease in children.
+- People with the genetic condition [phenylketonuria](https://journals.physiology.org/doi/full/10.1152/ajpendo.00195.2020) tend to consume a diet fortified with vitamin D, and anecdotally have not suffered any Covid-19 deaths. 
 
 # Race and Covid
 - [Black and Asian](https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1.full.pdf) populations are at a high risk of Covid morality. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067096/) have found a relationship between skin pigmentation an vitamin D levels, but [others](https://www.nejm.org/doi/full/10.1056/NEJMoa1306357) have found that there is no difference in bio-available vitamin D because of differences in genetic polymorphisms related to vitamin D–binding protein. Interestingly, vitamin D binding protein is [itself associated](https://thorax.bmj.com/content/65/5/456) with infectious lung diseases.
