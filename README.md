@@ -59,6 +59,7 @@
 
 # Potential Mechanisms
 
+- This is the [best overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7276229/#bb0965) of potential vitamin D mechanisms with respect to Covid-19.
 - Vitamin D helps regulate the [renin angiotensin system](https://youtu.be/Nfp4X4O87DQ?t=1499) which includes the ACE2 receptor that Covid-19 binds to.
 - Vitamin D [may bind](https://www.preprints.org/manuscript/202005.0084/v1) to the  non-structural protein nsp7 on the SARS-CoV-2 virus.
 - An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) outlines a number of potential mechanisms.
