@@ -30,6 +30,7 @@
 - A [bmj report](https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. 
 - Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) more than an acausal one.
 - A quarantine hospital in Egypt has [started providing](https://www.egypttoday.com/Article/1/88198/Doctors-in-Egypt%E2%80%99s-quarantine-hospitals-to-receive-million-Vitamin-D) vitamin D to frontline medical workers. 
+- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) vitamin D supplementation as a prevantive and adjuvent therapy for Covid-19 infection.
 
 # Vitamin D / Covid correlations
 - Vitamin D deficiency is [very common](https://www.ncbi.nlm.nih.gov/pubmed/12856111) in places that have been hit hard by the disease.
