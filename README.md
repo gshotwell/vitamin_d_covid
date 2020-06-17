@@ -58,6 +58,7 @@
 - UVB radiation, which the skin uses to manufacture vitamin D is [associated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586555#.XrA5awDBBLE.twitter) with lower death rates and case fatality rates.
 - Covid-19 deaths-per-million appears to [vary by latitude](https://www.ncbi.nlm.nih.gov/pubmed/32311755).
 - Latitude [was not associated](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) with a proportional increase in cases during one week of March.
+- Latitude is a significant predictor of covid mortality after [controlling for age](https://nutrition.bmj.com/content/early/2020/06/14/bmjnph-2020-000110).
 
 # Potential Mechanisms
 
