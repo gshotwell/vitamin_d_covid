@@ -37,6 +37,7 @@
 - Vitamin D reduces the risk of [thrombosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4069050/) which is one of the [puzzling symptoms](https://www.nature.com/articles/d41586-020-01403-8) of Covid-19
 - Kawasaki disease was weakly associated with vitamin D supplementation [at birth](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-019-1438-2) and KD patients had [lower levels](https://pubmed.ncbi.nlm.nih.gov/25994612/) of vitamin D. There is [an association](https://academic.oup.com/jid/article/191/4/499/937208) with Covid-19 and a syndrome similar to Kawasaki disease in children.
 - People with the genetic condition [phenylketonuria](https://journals.physiology.org/doi/full/10.1152/ajpendo.00195.2020) tend to consume a diet fortified with vitamin D, and anecdotally have not suffered any Covid-19 deaths. 
+- Hypocalcemia [was associated](https://t.co/zBGyptVwaz?amp=1) with covid-19 severity. Vitamin D deficiency is one cause of hypocalcemia. 
 
 # Race and Covid
 - [Black and Asian](https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1.full.pdf) populations are at a high risk of Covid morality. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067096/) have found a relationship between skin pigmentation an vitamin D levels, but [others](https://www.nejm.org/doi/full/10.1056/NEJMoa1306357) have found that there is no difference in bio-available vitamin D because of differences in genetic polymorphisms related to vitamin D–binding protein. Interestingly, vitamin D binding protein is [itself associated](https://thorax.bmj.com/content/65/5/456) with infectious lung diseases.
@@ -47,6 +48,7 @@
 - A dataset of [6 million US veterans](https://www.medrxiv.org/content/10.1101/2020.05.12.20099135v1) found that black and hispanic had higher rates of Covid-19 which were not explained by medical conditions or where they live or receive care.
 - [An analysis](https://su.figshare.com/articles/Socio-demographic_risk_factors_of_COVID-19_deaths_in_Sweden_A_nationwide_register_study/12420347) found that immigrants to Sweden from low and middle income countried were 1.5-2.5 times more likely to die from Covid.
 - BAME children at at a [higher risk for PIMS-TS](https://www.bmj.com/content/369/bmj.m1548/rr-25) in Paris and London. 
+- [An analysis of census](https://www.nber.org/papers/w27407#fromrss) data found that for all minorities, the minority's population share is strongly correlated with total COVID-19 deaths.
 
 # Supplementation in the absence of evidence
 - Evidence that Vitamin D Supplementation [Could Reduce Risk](https://www.mdpi.com/2072-6643/12/4/988/htm) of Influenza and COVID-19 Infections and Deaths
