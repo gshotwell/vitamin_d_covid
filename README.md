@@ -64,13 +64,14 @@
 
 # Potential Mechanisms
 
-- This is the [best overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7276229/#bb0965) of potential vitamin D mechanisms with respect to Covid-19.
+- This is the [best overview](https://www.sciencedirect.com/science/article/pii/S0960076020302442?via%3Dihub) of potential vitamin D mechanisms with respect to Covid-19.
 - Vitamin D helps regulate the [renin angiotensin system](https://youtu.be/Nfp4X4O87DQ?t=1499) which includes the ACE2 receptor that Covid-19 binds to.
 - Vitamin D [may bind](https://www.preprints.org/manuscript/202005.0084/v1) to the  non-structural protein nsp7 on the SARS-CoV-2 virus.
 - An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) outlines a number of potential mechanisms.
 - The Essential Role of Vitamin D in the [Biosynthesis of Endogenous Antimicrobial Peptides](https://www.preprints.org/manuscript/202005.0265/v1) May Explain Why Deficiency Increases Mortality Risk in COVID-19 Infections
 - Vitamin D is [essential](https://www.preprints.org/manuscript/202005.0265/v1) to the formation of antimicrobial peptides such as cathelicidin and beta defensins.  
 -  Lungs as Target of COVID-19 Infection: Protective Common Molecular Mechanisms of [Vitamin D and Melatonin as a New Potential Synergistic Treatment](https://pubmed.ncbi.nlm.nih.gov/32422305/)
+- Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus. 
 
 # Vitamin D background and previous studies
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
