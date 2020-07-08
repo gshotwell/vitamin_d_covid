@@ -44,7 +44,6 @@
 
 ### Ecological studies
 - A study out of [Northwestern University](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v3.full.pdf) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country.
-- An [ecological study](https://www.medrxiv.org/content/10.1101/2020.06.24.20138644v1) found a strong correlation between vitamin D deficiency and national Covid mortality. This correlation increased over time.
 - There was a [strong correlation](https://www.medrxiv.org/content/10.1101/2020.06.24.20138644v1) between vitamin D levels and European mortality which increased over time.
 - UVB radiation, which the skin uses to manufacture vitamin D is [associated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586555#.XrA5awDBBLE.twitter) with lower death rates and case fatality rates.
 - Covid-19 deaths-per-million appears to [vary by latitude](https://www.ncbi.nlm.nih.gov/pubmed/32311755).
