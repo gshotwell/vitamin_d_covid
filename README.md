@@ -26,6 +26,7 @@
 - A observational [study from Belgium](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v2) found that vitamin D deficiency is correlated with the risk for hospitalization for COVID-19 pneumonia and predisposes to more advanced radiological disease stages.
 - Vitamin D deficiency [was more common](https://www.medrxiv.org/content/10.1101/2020.06.21.20136903v2) among ITU Covid patients than the general population in a Newcastle hospital.
 - A [Mexican study](https://www.medigraphic.com/pdfs/sanmil/sm-2020/sm201_2za.pdf) found that patients with vitamin D serum levels bellow 8 ng/mL had 3.68 higher risk of dying from COVID-19.
+- A [Iranian study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616008) by Maghbooli et al, yet to be peer reviewed (July 14), found there was a significant association between vitamin D sufficiency and reduction in clinical severity. 
 
 #### Pre-infection blood samples
 *Supports link to vitamin D*
