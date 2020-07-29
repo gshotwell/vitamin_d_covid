@@ -27,10 +27,6 @@
 - A [Mexican study](https://www.medigraphic.com/pdfs/sanmil/sm-2020/sm201_2za.pdf) (Arturo Rodríguez Tort et al, April 2020)  found that patients with vitamin D serum levels bellow 8 ng/mL had 3.68 higher risk of dying from COVID-19.
 - A [Iranian study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616008) (Maghbooli et al, July 14 2020) found there was a significant association between vitamin D sufficiency and reduction in clinical severity. 
 
-Papers considerd as reported as fake by Robin Whittle on [https://researchveracity.info/alra/](https://researchveracity.info/alra/)
-- A [restrospective study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571484)(Alipio, April 2020) in the Philippines found a significant association between vitamin D status and severe Covid-19 infections.
-
-
 #### Pre-infection blood samples
 *Supports link to vitamin D*
 
