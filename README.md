@@ -80,6 +80,10 @@ Papers considerd as reported as fake by Robin Whittle on [https://researchveraci
 - The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) (Website French National Academy, May 22 2020) vitamin D supplementation as a preventative and adjuvent therapy for Covid-19 infection.
 - NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) (Nice.org.uk, June 29 2020) vitamin D supplementation. 
 - A [review of the evidence](https://nutrition.bmj.com/content/bmjnph/early/2020/05/13/bmjnph-2020-000089.full.pdf) (Lanham-New et al, April 2020) finds that supplementing with vitamin D in accordance with government guidelines is a good idea, but there is no evidence to support supplementation rates higher than 4,000 IU/day
+- a [A Basic Review](https://www.researchgate.net/publication/342976453_A_Basic_Review_of_the_Preliminary_Evidence_that_Covid-19_Risk_and_Severity_is_Increased_in_Vitamin_D_Deficiency/stats)(Linda Benskin, preprint, July 2020) of the Preliminary Evidence that Covid-19 Risk and Severity is Increased in Vitamin D Deficiency,  stating that The evidence strongly suggests that vitamin D deficiency is an easily modifiable risk factor and correcting it is potentially life-saving
+- a [Commentary](https://www.metabolismjournal.com/article/S0026-0495(20)30186-4/)(Manson et al, July 23, 2020) in Metabolism Journal calling for action to eliminate Vitamin D deficencies, and recommending a higher Vitamin D advice during the pandemic of 1000-2000 IU a day 
+
+
 
 
 # Vitamin D / Covid correlations
