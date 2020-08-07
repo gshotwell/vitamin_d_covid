@@ -114,6 +114,7 @@
 
 # Potential Mechanisms
 - This is the [best overview](https://www.sciencedirect.com/science/article/pii/S0960076020302442?via%3Dihub) (Quesada-Gomez et al, 2020) of potential vitamin D mechanisms with respect to Covid-19.
+- (https://eje.bioscientifica.com/view/journals/eje/aop/eje-20-0665/eje-20-0665.xml)Vitamin D and Covid-19 (Bilezikian, August 4 2020) in Mechanisms in Endocrinolgy.
 - Vitamin D helps regulate the [renin angiotensin system](https://youtu.be/Nfp4X4O87DQ?t=1499)(YouTube video, Channel Found my Fitness, Rhonda Patrick PhD , April 14 2020)) which includes the ACE2 receptor that Covid-19 binds to.
 - Vitamin D [may bind](https://www.preprints.org/manuscript/202005.0084/v1) (Dasgupta, May 2020) to the  non-structural protein nsp7 on the SARS-CoV-2 virus.
 - An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) (Ebady et al, May 2020) outlines a number of potential mechanisms.
