@@ -26,6 +26,7 @@
 - Vitamin D deficiency [was more common](https://www.medrxiv.org/content/10.1101/2020.06.21.20136903v2) (Link wrong, needs fixing) among ITU Covid patients than the general population in a Newcastle hospital.
 - A [Mexican study](https://www.medigraphic.com/pdfs/sanmil/sm-2020/sm201_2za.pdf) (Arturo Rodríguez Tort et al, April 2020)  found that patients with vitamin D serum levels bellow 8 ng/mL had 3.68 higher risk of dying from COVID-19.
 - A [Iranian study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616008) (Maghbooli et al, July 14 2020) found there was a significant association between vitamin D sufficiency and reduction in clinical severity. 
+- A [study](https://assets.researchsquare.com/files/rs-41173/v1/0e401c21-0b76-4f69-8cf5-0f83dfb135d3.pdf) (Carpagnano et all, August 2020) of 42 COVID-19 patients in a respiratory ICU found that 50% of vitamin D deficient patients died after 10 days compared with 5% of non-deficient patients.
 
 #### Pre-infection blood samples
 *Supports link to vitamin D*
