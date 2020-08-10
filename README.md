@@ -53,11 +53,10 @@
 
 
 # Vitamin D background and previous studies
-- Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) (Martineau et al, february 2017) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19.
+- Vitamin D Supplementation to Prevent Acute Respiratory Tract Infections: [Systematic Review and Meta-Analysis of Individual Participant Data](https://pubmed.ncbi.nlm.nih.gov/28202713/) (Martineau et al, February 2017)
+- An [2020 metaanalysis](https://www.medrxiv.org/content/10.1101/2020.07.14.20152728v1) (Jolliffe et all, July 2020) found that while vitamin D supplementation did reduce the rate of ARI, there was evidence of publican bias in the research.
 - Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/) (Gruber-Bzura, August 2018)
 - Vitamin D and [the anti-viral state](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308600/) (Beard et al, January 2011)
-- Vitamin D Supplementation to Prevent Acute Respiratory Tract Infections: [Systematic Review and Meta-Analysis of Individual Participant Data](https://pubmed.ncbi.nlm.nih.gov/28202713/) (Martineau et al, February 2017)
-
 
 # Comprehensive debate by the Irish Medical Journal:
 - Covid-19, Cocooning, and Vitamin D Intake Requirements [Link](http://imj.ie/wp-content/uploads/2020/05/Covid-19-Cocooning-and-Vitamin-D-Intake-Requirements.pdf) Leads to a 404
