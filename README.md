@@ -8,8 +8,9 @@
 
 # Direct research on vitamin D and Covid
 
-### Evidence of a causal link
+### Mendelian randomization
 - A [Mendelian randomisation analysis](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096) (Martin Kohlmeier, May 2020) of excess COVID-19 mortality of African-Americans in the US suggests that vitamin D is a risk factor for Covid Mortality
+- A [Mendelian randomization](https://www.medrxiv.org/content/10.1101/2020.08.09.20171280v1.article-info) (Liu et al, August 2020) using genes associated with vitamin D deficiency did not support a causal connection between vitamin D and Covid-19 mortality. It appears that this study used UK Biobank data, but the date of the samples were not disclosed.
 
 ### In vitro evidence
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) (Chee Keng Mok et al) June 22, 2020 against the SARS-COV2 virus.
@@ -50,7 +51,7 @@
 - Covid-19 deaths-per-million appears to [vary by latitude](https://www.ncbi.nlm.nih.gov/pubmed/32311755) (Rhodes et al, June 2020).
 - Latitude [was not associated](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) (Jüni et al, June 2020) with a proportional increase in cases during one week of March.
 - Latitude is a significant predictor of Covid mortality after [controlling for age](https://nutrition.bmj.com/content/3/1/118) (Rhodes et al, July 2020).
-
+- Vitamin D levels were [inversely associated](https://link.springer.com/article/10.1007/s40520-020-01619-8) with cases per million in Europe, but not with deaths per million. (Sing, Kaur, Kumar Sigh, August 2020).
 
 # Vitamin D background and previous studies
 - Vitamin D Supplementation to Prevent Acute Respiratory Tract Infections: [Systematic Review and Meta-Analysis of Individual Participant Data](https://pubmed.ncbi.nlm.nih.gov/28202713/) (Martineau et al, February 2017)
