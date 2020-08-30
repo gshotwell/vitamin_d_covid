@@ -29,6 +29,7 @@
 - A [Iranian study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616008) (Maghbooli et al, July 14 2020) found there was a significant association between vitamin D sufficiency and reduction in clinical severity. 
 - A [study](https://assets.researchsquare.com/files/rs-41173/v1/0e401c21-0b76-4f69-8cf5-0f83dfb135d3.pdf) (Carpagnano et all, August 2020) of 42 COVID-19 patients in a respiratory ICU found that 50% of vitamin D deficient patients died after 10 days compared with 5% of non-deficient patients.
 - A [prospective cohort study](https://www.mdlinx.com/journal-summary/vitamin-d-status-and-outcomes-for-hospitalised-older-patients-with-covid-19/i68lJrN18PCbGXMwzC0tU) (Baktash V et all, August 2020) found that vitamin D deficiency was more common among Covid positive patients presenting with Covid symptoms than Covid negative patients, and suggested that it could be considered as a diagnostic tool. 
+- [A study](https://www.sciencedirect.com/science/article/pii/S0168170220310558) (Mardenia et all, August 2020) of patients presenting with Covid symptoms at an Iranian hospital found that vitamin D deficiency and ACE disregulation were more commone among those who tested positive for Covid-19. 
 
 #### Pre-infection blood samples
 *Supports link to vitamin D*
