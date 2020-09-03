@@ -4,13 +4,13 @@
 - A [Mendelian randomisation analysis](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096) (Martin Kohlmeier, May 2020) of excess COVID-19 mortality of African-Americans in the US suggests that vitamin D is a risk factor for Covid Mortality
 - Several studies have now observed lower vitamin D levels among severe Covid-19 patients
 - [Vitamin D is very low risk](https://www.preprints.org/manuscript/202005.0265/v1) (McCullough et al, May 2020, preprint) an adverse events of vitamin D supplementation can be easily managed by clinicians
-- Patients treated with calcifediol in hospital were [less likely](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) to die than controls.
+- Patients treated with calcifediol in hospital were [less likely](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) to be admitted to the ICU than controls.
 
 
 # Direct research on vitamin D and Covid
 
 ### Intervention studies
-- A [parallel pilot randomized open label](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) (Castillo et all, August 2020) trial of 76 patients in Spain found that the administration of calcifediol reduced ICU admission and mortality. Of the 50 patients treated with calcifediol. 13/26 patients in the control group died.
+- A [parallel pilot randomized open label](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) (Castillo et all, August 2020) trial of 76 patients in Spain found that the administration of calcifediol reduced ICU admission and mortality. Of the 50 patients treated with calcifediol. 13/26 patients in the control group required ICU care compared with 1 in the intervention group.
 - A [small cohort trial](https://www.medrxiv.org/content/10.1101/2020.06.01.20112334v1) (Chuen Wen Tan, June 10 2020) found that just 16% of patients who received vitamin D, magnesium, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did  not receive DBM supplementation.
 
 ### Mendelian randomization
