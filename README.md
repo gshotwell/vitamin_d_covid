@@ -43,6 +43,7 @@
 
 
 ### Intervention studies
+- A [parallel pilot randomized open label](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) (Castillo et all, August 2020) trial of 76 patients in Spain found that the administration of calcifediol reduced ICU admission and mortality. Of the 50 patients treated with calcifediol. 13/26 patients in the control group died.
 - A [small cohort trial](https://www.medrxiv.org/content/10.1101/2020.06.01.20112334v1) (Chuen Wen Tan, June 10 2020) found that just 16% of patients who received vitamin D, magnesium, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did  not receive DBM supplementation.
 
 
