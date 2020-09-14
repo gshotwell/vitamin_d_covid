@@ -32,6 +32,7 @@
 - A [prospective cohort study](https://www.mdlinx.com/journal-summary/vitamin-d-status-and-outcomes-for-hospitalised-older-patients-with-covid-19/i68lJrN18PCbGXMwzC0tU) (Baktash V et all, August 2020) found that vitamin D deficiency was more common among Covid positive patients presenting with Covid symptoms than Covid negative patients, and suggested that it could be considered as a diagnostic tool. 
 - [A study](https://www.sciencedirect.com/science/article/pii/S0168170220310558) (Mardenia et all, August 2020) of patients presenting with Covid symptoms at an Iranian hospital found that vitamin D deficiency and ACE disregulation were more commone among those who tested positive for Covid-19. 
 - [A Germnan Study](https://www.mdpi.com/2072-6643/12/9/2757/htm) (Radujkovic et al, August 2020) found that vitamin D status was associated with need for mechanical ventilation and death. 
+- [A smallprospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not deatha.
 
 #### Pre-infection blood samples
 *Supports link to vitamin D*
@@ -87,13 +88,6 @@
 - [An analysis](https://su.figshare.com/articles/Socio-demographic_risk_factors_of_COVID-19_deaths_in_Sweden_A_nationwide_register_study/12420347)(Drefahl et al, July 2020) found that immigrants to Sweden from low and middle income countries were 1.5-2.5 times more likely to die from Covid.
 - [An analysis of census](https://www.nber.org/papers/w27407#fromrss)(McLaren, June 2020) data found that for all minorities, the minority's population share is strongly correlated with total COVID-19 deaths.
 - Middle eastern and African immigrants to Sweden were at a [much higher risk](https://su.figshare.com/articles/preprint/Disparities_in_covid-19_deaths_by_country_of_birth_in_Stockholm_Sweden_A_total_population_based_cohort_study/12852854/1) of covid-19 mortality than the Swedish-born population. (Rostilla et al, August 2020)
-
-
-# MIS-C, PIMS-TS, Kawasaki Disease
-- Kawasaki disease was weakly associated with vitamin D supplementation [at birth](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-019-1438-2) (Meyer et al, February 2019) and KD patients had [lower levels](https://pubmed.ncbi.nlm.nih.gov/25994612/) (Stagi, July 2016) of vitamin D. There is [an association](https://academic.oup.com/jid/article/191/4/499/937208) (Esper, February 2005) with Covid-19 and a syndrome similar to Kawasaki disease in children.
-- BAME children at at a [higher risk for PIMS-TS](https://www.bmj.com/content/369/bmj.m1548/rr-25) (Brown, April 2020) in Paris and London. 
-- Black and Latino children [were overrepresented](https://www.nejm.org/doi/full/10.1056/NEJMoa2021680?query=featured_home) (Feldstein, July 2020) in American MIS-C cases.
-
 
 # Potential Mechanisms
 - This is the [best overview](https://www.sciencedirect.com/science/article/pii/S0960076020302442?via%3Dihub) (Quesada-Gomez et al, 2020) of potential vitamin D mechanisms with respect to Covid-19.
