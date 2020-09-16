@@ -66,6 +66,11 @@
 - Vitamin D and [the anti-viral state](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308600/) (Beard et al, January 2011)
 
 # Lit reviews and clinical guidance
+
+## If you only have time for one review
+- (A Basic Review of the Preliminary Evidence That COVID-19 Risk and Severity Is Increased in Vitamin D Deficiency)[https://www.frontiersin.org/articles/10.3389/fpubh.2020.00513/full] (Benskin, Sept 2020) note that this review only included studies which were available prior to July 2020, so did not include the COVIDIOL pilot RCT.
+
+## Other revies
 - [This review](https://www.preprints.org/manuscript/202005.0265/v1) (McCullough, May 15 2020) of potential vitamin D mechanisms of action provides some useful history on the origin of vitamin D dosing recommendations. They also review their clinical guidelines after treating several thousand patients with 5000-10000 IU/day, including recognizing and resolving  hypercalcemia or other adverse events.
 - [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
 - A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) (Ebadi et al, May 2020) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. 
