@@ -33,6 +33,7 @@
 - [A study](https://www.sciencedirect.com/science/article/pii/S0168170220310558) (Mardenia et all, August 2020) of patients presenting with Covid symptoms at an Iranian hospital found that vitamin D deficiency and ACE disregulation were more commone among those who tested positive for Covid-19. 
 - [A Germnan Study](https://www.mdpi.com/2072-6643/12/9/2757/htm) (Radujkovic et al, August 2020) found that vitamin D status was associated with need for mechanical ventilation and death. 
 - [A smallprospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not deatha.
+- [An analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239252#pone-0239252-g002) (Kaufman et all, Sept 2020) of 190,000 patients found that the probability of testing positive was associated with vitamin D levels. This association held across all age groups, ethnicities and geographies. 
 
 #### Pre-infection blood samples
 *Supports link to vitamin D*
@@ -68,7 +69,7 @@
 # Lit reviews and clinical guidance
 
 ## If you only have time for one review
-- (A Basic Review of the Preliminary Evidence That COVID-19 Risk and Severity Is Increased in Vitamin D Deficiency)[https://www.frontiersin.org/articles/10.3389/fpubh.2020.00513/full] (Benskin, Sept 2020) note that this review only included studies which were available prior to July 2020, so did not include the COVIDIOL pilot RCT.
+- [A Basic Review of the Preliminary Evidence That COVID-19 Risk and Severity Is Increased in Vitamin D Deficiency](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00513/full) (Benskin, Sept 2020) note that this review only included studies which were available prior to July 2020, so did not include the COVIDIOL pilot RCT.
 
 ## Other revies
 - [This review](https://www.preprints.org/manuscript/202005.0265/v1) (McCullough, May 15 2020) of potential vitamin D mechanisms of action provides some useful history on the origin of vitamin D dosing recommendations. They also review their clinical guidelines after treating several thousand patients with 5000-10000 IU/day, including recognizing and resolving  hypercalcemia or other adverse events.
@@ -96,7 +97,6 @@
 
 # Potential Mechanisms
 - This is the [best overview](https://www.sciencedirect.com/science/article/pii/S0960076020302442?via%3Dihub) (Quesada-Gomez et al, 2020) of potential vitamin D mechanisms with respect to Covid-19.
-- (https://eje.bioscientifica.com/view/journals/eje/aop/eje-20-0665/eje-20-0665.xml)Vitamin D and Covid-19 (Bilezikian, August 4 2020) in Mechanisms in Endocrinolgy.
 - Vitamin D helps regulate the [renin angiotensin system](https://youtu.be/Nfp4X4O87DQ?t=1499)(YouTube video, Channel Found my Fitness, Rhonda Patrick PhD , April 14 2020)) which includes the ACE2 receptor that Covid-19 binds to.
 - Vitamin D [may bind](https://www.preprints.org/manuscript/202005.0084/v1) (Dasgupta, May 2020) to the  non-structural protein nsp7 on the SARS-CoV-2 virus.
 - An [article in Nature](https://www.nature.com/articles/s41430-020-0661-0) (Ebady et al, May 2020) outlines a number of potential mechanisms.
