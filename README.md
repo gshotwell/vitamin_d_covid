@@ -25,14 +25,14 @@
 - A re-analysis of [107 Swiss blood samples](https://www.mdpi.com/2072-6643/12/5/1359/htm) (Avolio et al, April 2020) found that PCR positive patients had 25-hydroxyvitamin D concentrations half that of PCR negatives. This finding held after stratifying for age and gender.
 - Hospitalized male Covid-19 patients [were found](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v1) (De Smet et al, May 2019) to have lower vitamin D levels than controls
 - A observational [study from Belgium](https://www.medrxiv.org/content/10.1101/2020.05.01.20079376v2)(De Smet, May 2020) found that vitamin D deficiency is correlated with the risk for hospitalization for COVID-19 pneumonia and predisposes to more advanced radiological disease stages.
-- Vitamin D deficiency [was more common](https://www.medrxiv.org/content/10.1101/2020.06.21.20136903v2) (Panagiotou eet all, June 2020) among ITU Covid patients than the general population in a Newcastle hospital.
+- Vitamin D deficiency [was more common](https://www.medrxiv.org/content/10.1101/2020.06.21.20136903v2) (Panagiotou et all, June 2020) among ITU Covid patients than the general population in a Newcastle hospital.
 - A [Mexican study](https://www.medigraphic.com/pdfs/sanmil/sm-2020/sm201_2za.pdf) (Arturo Rodríguez Tort et al, April 2020)  found that patients with vitamin D serum levels bellow 8 ng/mL had 3.68 higher risk of dying from COVID-19.
 - A [Iranian study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616008) (Maghbooli et al, July 14 2020) found there was a significant association between vitamin D sufficiency and reduction in clinical severity. 
 - A [study](https://assets.researchsquare.com/files/rs-41173/v1/0e401c21-0b76-4f69-8cf5-0f83dfb135d3.pdf) (Carpagnano et all, August 2020) of 42 COVID-19 patients in a respiratory ICU found that 50% of vitamin D deficient patients died after 10 days compared with 5% of non-deficient patients.
 - A [prospective cohort study](https://www.mdlinx.com/journal-summary/vitamin-d-status-and-outcomes-for-hospitalised-older-patients-with-covid-19/i68lJrN18PCbGXMwzC0tU) (Baktash V et all, August 2020) found that vitamin D deficiency was more common among Covid positive patients presenting with Covid symptoms than Covid negative patients, and suggested that it could be considered as a diagnostic tool. 
-- [A study](https://www.sciencedirect.com/science/article/pii/S0168170220310558) (Mardenia et all, August 2020) of patients presenting with Covid symptoms at an Iranian hospital found that vitamin D deficiency and ACE disregulation were more commone among those who tested positive for Covid-19. 
-- [A Germnan Study](https://www.mdpi.com/2072-6643/12/9/2757/htm) (Radujkovic et al, August 2020) found that vitamin D status was associated with need for mechanical ventilation and death. 
-- [A smallprospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not deatha.
+- [A study](https://www.sciencedirect.com/science/article/pii/S0168170220310558) (Mardenia et all, August 2020) of patients presenting with Covid symptoms at an Iranian hospital found that vitamin D deficiency and ACE dysregulation were more common among those who tested positive for Covid-19. 
+- [A German Study](https://www.mdpi.com/2072-6643/12/9/2757/htm) (Radujkovic et al, August 2020) found that vitamin D status was associated with need for mechanical ventilation and death. 
+- [A small prospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not deatha.
 
 
 #### Pre-infection blood samples
@@ -40,7 +40,7 @@
 
 - A [retrospective cohort](https://www.medrxiv.org/content/10.1101/2020.05.08.20095893v1.full.pdf) (Meltzer et al, May 2020) study found that Chicago patients who were likely vitamin D deficient were more likely to test positive for Covid-19.
 - An [Israeli study](https://www.medrxiv.org/content/10.1101/2020.07.01.20144329v1.full.pdf) (Eugene Merzon et al, July 2020) of 7,000 patients with pre-Covid serum vitamin D tests found that vitamin D levels were associated with Covid infection and hospitalization.
-- An [analysis](https://www.medrxiv.org/content/10.1101/2020.09.04.20188268v1) (Isreal et al, August 2020) of Isreali vitamin D tests performed between 2010 and 2019 found that vitamin D deficiency predicted Covid-19 infection. 
+- An [analysis](https://www.medrxiv.org/content/10.1101/2020.09.04.20188268v1) (Isreal et al, August 2020) of Israeli vitamin D tests performed between 2010 and 2019 found that vitamin D deficiency predicted Covid-19 infection. 
 - [An analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239252#pone-0239252-g002) (Kaufman et all, Sept 2020) of 190,000 patients found that the probability of testing positive was associated with vitamin D levels. This association held across all age groups, ethnicities and geographies. 
 
 *Contradicts vitamin D link*
@@ -63,7 +63,7 @@
 
 # Vitamin D background and previous studies
 - Vitamin D Supplementation to Prevent Acute Respiratory Tract Infections: [Systematic Review and Meta-Analysis of Individual Participant Data](https://pubmed.ncbi.nlm.nih.gov/28202713/) (Martineau et al, February 2017)
-- An [2020 metaanalysis](https://www.medrxiv.org/content/10.1101/2020.07.14.20152728v1) (Jolliffe et all, July 2020) found that while vitamin D supplementation did reduce the rate of ARI, there was evidence of publican bias in the research.
+- An [2020 meta analysis](https://www.medrxiv.org/content/10.1101/2020.07.14.20152728v1) (Jolliffe et all, July 2020) found that while vitamin D supplementation did reduce the rate of ARI, there was evidence of publican bias in the research.
 - Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/) (Gruber-Bzura, August 2018)
 - Vitamin D and [the anti-viral state](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308600/) (Beard et al, January 2011)
 
@@ -72,18 +72,18 @@
 ## If you only have time for one review
 - [A Basic Review of the Preliminary Evidence That COVID-19 Risk and Severity Is Increased in Vitamin D Deficiency](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00513/full) (Benskin, Sept 2020) note that this review only included studies which were available prior to July 2020, so did not include the COVIDIOL pilot RCT.
 
-## Other revies
+## Other reviews
 - [This review](https://www.preprints.org/manuscript/202005.0265/v1) (McCullough, May 15 2020) of potential vitamin D mechanisms of action provides some useful history on the origin of vitamin D dosing recommendations. They also review their clinical guidelines after treating several thousand patients with 5000-10000 IU/day, including recognizing and resolving  hypercalcemia or other adverse events.
 - [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
 - A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) (Ebadi et al, May 2020) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. 
 - A [bmj report](https://nutrition.bmj.com/content/3/1/106) (Lanham-new, May 2020)) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. 
 - Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) (Davies et al, june 13 2020) more than an acausal one.
 - A quarantine hospital in Egypt has [started providing](https://www.egypttoday.com/Article/1/88198/Doctors-in-Egypt%E2%80%99s-quarantine-hospitals-to-receive-million-Vitamin-D) (Egypt Today, News source, June 1st 2020) vitamin D to frontline medical workers. 
-- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) (Website French National Academy, May 22 2020) vitamin D supplementation as a preventative and adjuvent therapy for Covid-19 infection.
+- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) (Website French National Academy, May 22 2020) vitamin D supplementation as a preventative and adjuvant therapy for Covid-19 infection.
 - NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) (Nice.org.uk, June 29 2020) vitamin D supplementation. 
 - A [review of the evidence](https://nutrition.bmj.com/content/bmjnph/early/2020/05/13/bmjnph-2020-000089.full.pdf) (Lanham-New et al, April 2020) finds that supplementing with vitamin D in accordance with government guidelines is a good idea, but there is no evidence to support supplementation rates higher than 4,000 IU/day
 - a [A Basic Review](https://www.researchgate.net/publication/343513838_A_Basic_Review_of_the_Preliminary_Evidence_that_COVID-19_Risk_and_Severity_is_Increased_in_Vitamin_D_Deficiency)(Linda Benskin, preprint, July 2020) of the Preliminary Evidence that Covid-19 Risk and Severity is Increased in Vitamin D Deficiency,  stating that The evidence strongly suggests that vitamin D deficiency is an easily modifiable risk factor and correcting it is potentially life-saving
-- a [Commentary](https://www.metabolismjournal.com/article/S0026-0495(20)30186-4/)(Manson et al, July 23, 2020) in Metabolism Journal calling for action to eliminate Vitamin D deficencies, and recommending a higher Vitamin D advice during the pandemic of 1000-2000 IU a day 
+- a [Commentary](https://www.metabolismjournal.com/article/S0026-0495(20)30186-4/)(Manson et al, July 23, 2020) in Metabolism Journal calling for action to eliminate Vitamin D deficiencies, and recommending a higher Vitamin D advice during the pandemic of 1000-2000 IU a day 
 
 # Race and Covid
 - [Black and Asian](https://www.nature.com/articles/s41586-020-2521-4) (Williamson et al, July 2020) populations are at a high risk of Covid morality. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067096/) (Carolina Bonilla et al, June 2012) have found a relationship between skin pigmentation an vitamin D levels, but [others](https://www.nejm.org/doi/full/10.1056/NEJMoa1306357) (Powe et al, November 2013) have found that there is no difference in bio-available vitamin D because of differences in genetic polymorphisms related to vitamin D–binding protein. Interestingly, vitamin D binding protein is [itself associated](https://thorax.bmj.com/content/65/5/456) (Chishimba et al, November 2013) with infectious lung diseases.
