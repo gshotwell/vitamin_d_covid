@@ -40,7 +40,7 @@
 
 - A [retrospective cohort](https://www.medrxiv.org/content/10.1101/2020.05.08.20095893v1.full.pdf) (Meltzer et al, May 2020) study found that Chicago patients who were likely vitamin D deficient were more likely to test positive for Covid-19.
 - An [Israeli study](https://www.medrxiv.org/content/10.1101/2020.07.01.20144329v1.full.pdf) (Eugene Merzon et al, July 2020) of 7,000 patients with pre-Covid serum vitamin D tests found that vitamin D levels were associated with Covid infection and hospitalization.
-- An [analysis](https://www.medrxiv.org/content/10.1101/2020.09.04.20188268v1) (Isreal et al, August 2020) of Israeli vitamin D tests performed between 2010 and 2019 found that vitamin D deficiency predicted Covid-19 infection. 
+- An [analysis](https://www.medrxiv.org/content/10.1101/2020.09.04.20188268v1) (Israel et al, August 2020) of Israeli vitamin D tests performed between 2010 and 2019 found that vitamin D deficiency predicted Covid-19 infection. 
 - [An analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239252#pone-0239252-g002) (Kaufman et all, Sept 2020) of 190,000 patients found that the probability of testing positive was associated with vitamin D levels. This association held across all age groups, ethnicities and geographies. 
 
 *Contradicts vitamin D link*
