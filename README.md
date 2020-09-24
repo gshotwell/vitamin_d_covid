@@ -34,6 +34,8 @@
 - [A German Study](https://www.mdpi.com/2072-6643/12/9/2757/htm) (Radujkovic et al, August 2020) found that vitamin D status was associated with need for mechanical ventilation and death. 
 - [A small prospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not deatha.
 
+*Does not support link to vitamin D*
+- A [small trial](https://pubmed.ncbi.nlm.nih.gov/32960622/) (Macaya et. all, September 2020) did not find an association between vitamin D deficiency and Covid-19 severity. The study did find an association among younger patients. 
 
 #### Pre-infection blood samples
 *Supports link to vitamin D*
