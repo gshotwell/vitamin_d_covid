@@ -81,7 +81,7 @@
 - [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
 - A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) (Ebadi et al, May 2020) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. 
 - A [bmj report](https://nutrition.bmj.com/content/3/1/106) (Lanham-new, May 2020)) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. 
-- Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) (Davies et al, june 13 2020) more than an acausal one.
+- Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) (Davies et al, June 13 2020) more than an acausal one.
 - A quarantine hospital in Egypt has [started providing](https://www.egypttoday.com/Article/1/88198/Doctors-in-Egypt%E2%80%99s-quarantine-hospitals-to-receive-million-Vitamin-D) (Egypt Today, News source, June 1st 2020) vitamin D to frontline medical workers. 
 - The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) (Website French National Academy, May 22 2020) vitamin D supplementation as a preventative and adjuvant therapy for Covid-19 infection.
 - NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) (Nice.org.uk, June 29 2020) vitamin D supplementation. 
