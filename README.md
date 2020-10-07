@@ -32,7 +32,9 @@
 - A [prospective cohort study](https://www.mdlinx.com/journal-summary/vitamin-d-status-and-outcomes-for-hospitalised-older-patients-with-covid-19/i68lJrN18PCbGXMwzC0tU) (Baktash V et all, August 2020) found that vitamin D deficiency was more common among Covid positive patients presenting with Covid symptoms than Covid negative patients, and suggested that it could be considered as a diagnostic tool. 
 - [A study](https://www.sciencedirect.com/science/article/pii/S0168170220310558) (Mardenia et all, August 2020) of patients presenting with Covid symptoms at an Iranian hospital found that vitamin D deficiency and ACE dysregulation were more common among those who tested positive for Covid-19. 
 - [A German Study](https://www.mdpi.com/2072-6643/12/9/2757/htm) (Radujkovic et al, August 2020) found that vitamin D status was associated with need for mechanical ventilation and death. 
-- [A small prospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not deatha.
+- [A small prospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not death.
+- [A Turkish study](https://link.springer.com/article/10.1007/s12603-020-1479-0) (Karahan & Katkat October 2020) found that vitamin D deficiency was associated with mortality.
+- [A study](https://www.medrxiv.org/content/10.1101/2020.10.05.20206706v1) (Aduragbemi et all, October 2020) of UK health professionals found that vitamin D deficient individuals were more likely to be seropositive for Covid antibodies.
 
 *Does not support link to vitamin D*
 - A [small trial](https://pubmed.ncbi.nlm.nih.gov/32960622/) (Macaya et. all, September 2020) did not find an association between vitamin D deficiency and Covid-19 severity. The study did find an association among younger patients. 
