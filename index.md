@@ -1,16 +1,20 @@
 # The argument for supplementation
-- Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) (Martineau et al, February 2017) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19
-- Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) (Chee Keng Mok et al June 22, 2020) against the SARS-COV2 virus
+- Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19
+- Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus
 - Patients treated with calcifediol are [less likely](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) to be admitted to the ICU than controls
 - Several studies have now observed lower vitamin D levels among severe Covid-19 patients
-- [Vitamin D is very low risk](https://www.preprints.org/manuscript/202005.0265/v1) (McCullough et al, May 2020, preprint) an adverse events of vitamin D supplementation can be easily managed by clinicians
+- [Vitamin D is very low risk](https://www.preprints.org/manuscript/202005.0265/v1) an adverse events of vitamin D supplementation can be easily managed by clinicians
 
 # Direct research on vitamin D and Covid
 
 ### Intervention studies
+
 *Randomized*
+
 - A [parallel pilot randomized open label](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) (Castillo et all, August 2020) trial of 76 patients in Spain found that the administration of calcifediol reduced ICU admission and mortality. Of the 50 patients treated with calcifediol. 13/26 patients in the control group required ICU care compared with 1 in the intervention group.
+
 *Cohort*
+
 - A [small cohort trial](https://www.medrxiv.org/content/10.1101/2020.06.01.20112334v1) (Chuen Wen Tan, June 10 2020) found that just 16% of patients who received vitamin D, magnesium, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did  not receive DBM supplementation.
 
 ### In vitro evidence
@@ -35,11 +39,14 @@
 - [A small prospective cohort study](https://pmj.bmj.com/content/early/2020/08/26/postgradmedj-2020-138712?s=09) (Baktash et all, September 2020) of older adults found that vitamin D deficiency was associated with mechanical ventilation, but not death.
 - [A Turkish study](https://link.springer.com/article/10.1007/s12603-020-1479-0) (Karahan & Katkat October 2020) found that vitamin D deficiency was associated with mortality.
 - [A study](https://www.medrxiv.org/content/10.1101/2020.10.05.20206706v1) (Aduragbemi et all, October 2020) of UK health professionals found that vitamin D deficient individuals were more likely to be seropositive for Covid antibodies.
+- A study of [Covid positive children](https://onlinelibrary.wiley.com/doi/10.1002/ppul.25106) (Yilmaz & Sen, October 2020) found that children with Covid had lower vitamin D levels than healthy controls.
 
 *Does not support link to vitamin D*
+
 - A [small trial](https://pubmed.ncbi.nlm.nih.gov/32960622/) (Macaya et. all, September 2020) did not find an association between vitamin D deficiency and Covid-19 severity. The study did find an association among younger patients. 
 
 #### Pre-infection blood samples
+
 *Supports link to vitamin D*
 
 - A [retrospective cohort](https://www.medrxiv.org/content/10.1101/2020.05.08.20095893v1.full.pdf) (Meltzer et al, May 2020) study found that Chicago patients who were likely vitamin D deficient were more likely to test positive for Covid-19.
@@ -47,17 +54,19 @@
 - An [analysis](https://www.medrxiv.org/content/10.1101/2020.09.04.20188268v1) (Israel et al, August 2020) of Israeli vitamin D tests performed between 2010 and 2019 found that vitamin D deficiency predicted Covid-19 infection. 
 - [An analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239252#pone-0239252-g002) (Kaufman et all, Sept 2020) of 190,000 patients found that the probability of testing positive was associated with vitamin D levels. This association held across all age groups, ethnicities and geographies. 
 
-*Contradicts vitamin D link*
+*Does not support vitamin D link*
 
 - Vitamin D levels between 2006-2010 [were associated](https://www.sciencedirect.com/science/article/pii/S1871402120301156) (Hastie et al, July 2020) with Covid-19 mortality, but not after controlling for other variables in the data set. It's hard to make inferences from 10 year old blood samples because there's a causal story in which low vitamin D in 2010 _increases_ vitamin D in 2020 because that group is likely to supplement.
 
 ### Non-clinical causal data
-- - Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) (Davies et al, June 13 2020) more than an acausal one.
+
+- Evidence supports a [vitamin-D causal model](https://www.medrxiv.org/content/10.1101/2020.05.01.20087965v1) (Davies et al, June 13 2020) more than an acausal one.
 - A [Mendelian randomisation analysis](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096) (Martin Kohlmeier, May 2020) of excess COVID-19 mortality of African-Americans in the US suggests that vitamin D is a risk factor for Covid Mortality
 - A [Mendelian randomization](https://www.medrxiv.org/content/10.1101/2020.08.09.20171280v1.article-info) (Liu et al, August 2020) using genes associated with vitamin D deficiency did not support a causal connection between vitamin D and Covid-19 mortality. It appears that this study used UK Biobank data, but the date of the samples were not disclosed.
 
 
 ### Ecological studies
+
 - A study out of [Northwestern University](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v3.full.pdf) (Daneshkhah1 et al, April 2020) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country.
 - There was a [strong correlation](https://www.medrxiv.org/content/10.1101/2020.06.24.20138644v1) (Chuen Wen Tan, June 2020) between vitamin D levels and European mortality which increased over time.
 - UVB radiation, which the skin uses to manufacture vitamin D is [associated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586555#.XrA5awDBBLE.twitter) (Moozhipurath et al, May 1st 2020) with lower death rates and case fatality rates.
@@ -67,6 +76,7 @@
 - Vitamin D levels were [inversely associated](https://link.springer.com/article/10.1007/s40520-020-01619-8) with cases per million in Europe, but not with deaths per million. (Sing, Kaur, Kumar Sigh, August 2020).
 
 # Vitamin D background and previous studies
+
 - Vitamin D Supplementation to Prevent Acute Respiratory Tract Infections: [Systematic Review and Meta-Analysis of Individual Participant Data](https://pubmed.ncbi.nlm.nih.gov/28202713/) (Martineau et al, February 2017)
 - An [2020 meta analysis](https://www.medrxiv.org/content/10.1101/2020.07.14.20152728v1) (Jolliffe et all, July 2020) found that while vitamin D supplementation did reduce the rate of ARI, there was evidence of publican bias in the research.
 - Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/) (Gruber-Bzura, August 2018)
