@@ -25,6 +25,12 @@ output:
 
 ### Covid severity associated with serum vitamin D levels
 
+
+#### Pre-infection supplementation
+
+- [A quasi-experimental study](https://www.sciencedirect.com/science/article/pii/S096007602030296X#fig0010) found that French nursing home residents who had recently received a bolus dose of vitamin D were more likely to survive a Covid-19 infection than residents who had not recently received a supplement. 92%  of the 57 people who received vitamin D survived, while 66% of the 9 people in the cooperator group survived. (Anweller et. al, October 2020)
+
+
 #### Pre-infection blood samples
 
 *Supports link to vitamin D*
