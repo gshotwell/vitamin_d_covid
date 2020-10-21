@@ -1,1 +1,19 @@
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+
+#plugin page: https://github.com/jekyll/jekyll-seo-tag
+#meta tags  
+  
+title: Vitamin D and Covid-19 overview of scientific publications
+
+description: Overview of most recent scientific publications on Vitamin D and Covid-19. 
+
+twitter:
+  username: gshotwell
+  card: summary
+
+# to be filled, suggestion: https://www.freepik.com/free-photo/healthy-lifestyle-medicine-nutritional-supplements-people-concept-close-up-male-hands-holding-pills-with-cod-liver-oil-capsules-water-glass_1206317.htm#page=1&query=vitamin%20d&position=0
+# image: 
+
