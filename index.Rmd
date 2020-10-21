@@ -4,6 +4,9 @@ output:
   rmarkdown::html_document:
     theme: lumen
 ---
+
+This based on the github: [Vitamin_d_covid](https://github.com/GShotwell/vitamin_d_covid/blob/master/index.Rmd) 
+
 # The argument for supplementation
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus
