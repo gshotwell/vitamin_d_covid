@@ -1,9 +1,31 @@
 ---
 title: "Vitamin D and Covid-19"
+description: "A comprehensive list of research related to vitamin D and Covid-19"
 output:
   rmarkdown::html_document:
     theme: lumen
 ---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "A comprehensive list of research related to vitamin D and Covid-19"
+  ) %>% 
+  meta_name("github-repo" = "GShotwell/vitamin_d_covid") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Vitamin D and Covid",
+    url = "https://vitamin-d-covid.shotwell.ca/",
+    image = "https://www.shutterstock.com/image-illustration/3d-vitamin-d-capsule-lying-on-403884850",
+    image_alt = "A vitamin D pill",
+    og_type = "website",
+    og_author = c("Gordon Shotwell"),
+    twitter_card_type = "summary",
+    twitter_creator = "@gshotwell"
+  )
+```
+
 # The argument for supplementation
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus
@@ -95,6 +117,15 @@ output:
 - Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/) (Gruber-Bzura, August 2018)
 - Vitamin D and [the anti-viral state](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308600/) (Beard et al, January 2011)
 
+# Governments recommending Vitamin D
+
+- [Israel](https://www.theyeshivaworld.com/news/headlines-breaking-stories/1911344/health-ministry-urges-israelis-to-take-vitamin-d-to-fight-covid-19.html) started recommending vitamin D in October 2020.
+- The United Kingdom [changed its guidance](https://inews.co.uk/news/politics/vitamin-d-supplements-recommended-matt-hancock-covid-19-725284) to recommend vitamin D.
+- [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
+- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) (Website French National Academy, May 22 2020) vitamin D supplementation as a preventative and adjuvant therapy for Covid-19 infection.
+
+
+
 # Lit reviews and clinical guidance
 
 *If you only have time for one review*
@@ -104,11 +135,10 @@ output:
 *Other reviews*
 
 - [This review](https://www.preprints.org/manuscript/202005.0265/v1)  of potential vitamin D mechanisms of action provides some useful history on the origin of vitamin D dosing recommendations. They also review their clinical guidelines after treating several thousand patients with 5000-10000 IU/day, including recognizing and resolving  hypercalcemia or other adverse events. (McCullough, May 15 2020)
-- [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
+
 - A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. (Ebadi et al, May 2020)
 - A [bmj report](https://nutrition.bmj.com/content/3/1/106) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. (Lanham-new, May 2020) 
-- A quarantine hospital in Egypt has [started providing](https://www.egypttoday.com/Article/1/88198/Doctors-in-Egypt%E2%80%99s-quarantine-hospitals-to-receive-million-Vitamin-D) (Egypt Today, News source, June 1st 2020) vitamin D to frontline medical workers. 
-- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) (Website French National Academy, May 22 2020) vitamin D supplementation as a preventative and adjuvant therapy for Covid-19 infection.
-- NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) vitamin D supplementation. (Nice.org.uk, June 29 2020)
+- A quarantine hospital in Egypt has [started providing](https://www.egypttoday.com/Article/1/88198/Doctors-in-Egypt%E2%80%99s-quarantine-hospitals-to-receive-million-Vitamin-D) (Egypt Today, News source, June 1st 2020) vitamin D to fronting medical workers. 
+- NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) vitamin D supplementation. (Nice.org.u, June 29 2020)
 - A [review of the evidence](https://nutrition.bmj.com/content/bmjnph/early/2020/05/13/bmjnph-2020-000089.full.pdf) finds that supplementing with vitamin D in accordance with government guidelines is a good idea, but there is no evidence to support supplementation rates higher than 4,000 IU/day. (Lanham-New et al, April 2020)
 - a [Commentary](https://www.metabolismjournal.com/article/S0026-0495(20)30186-4/) in Metabolism Journal calling for action to eliminate Vitamin D deficiencies, and recommending a higher Vitamin D advice during the pandemic of 1000-2000 IU a day. (Manson et al, July 23, 2020) 
