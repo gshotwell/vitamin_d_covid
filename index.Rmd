@@ -3,6 +3,8 @@ title: "Vitamin D and Covid-19"
 output:
   rmarkdown::html_document:
     theme: lumen
+    includes:
+      in_header: header.html
 ---
 # The argument for supplementation
 - Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19
