@@ -17,8 +17,8 @@ meta() %>%
   meta_social(
     title = "Vitamin D and Covid",
     url = "https://vitamin-d-covid.shotwell.ca/",
-    image = "https://www.shutterstock.com/image-illustration/3d-vitamin-d-capsule-lying-on-403884850",
-    image_alt = "A vitamin D pill",
+    image = "https://r4ds.had.co.nz/cover.png",
+    image_alt = "The cover of the R4DS book",
     og_type = "website",
     og_author = c("Gordon Shotwell"),
     twitter_card_type = "summary",
