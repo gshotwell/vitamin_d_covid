@@ -35,23 +35,19 @@ meta() %>%
 
 # Direct research on vitamin D and Covid
 
-### Intervention studies
+### Supplementation studies
 
 *Randomized*
 
 - A [parallel pilot randomized open label](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) trial of 76 patients in Spain found that the administration of calcifediol reduced ICU admission and mortality. Of the 50 patients treated with calcifediol. 13/26 patients in the control group required ICU care compared with 1 in the intervention group. (Castillo et all, August 2020)
 
-*Cohort*
+*Non-Randomized*
 
 - A [small cohort trial](https://www.medrxiv.org/content/10.1101/2020.06.01.20112334v1)  found that just 16% of patients who received vitamin D, magnesium, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did  not receive DBM supplementation. (Chuen Wen Tan, June 10 2020)
-
-### Covid severity associated with serum vitamin D levels
-
-
-#### Pre-infection supplementation
-
+- A [retrospective study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690902) found that hospitalized patients who were treated with vitamin D were less likely to die than those who did not receive vitamin D. (Ling et all, October 2020)
 - [A quasi-experimental study](https://www.sciencedirect.com/science/article/pii/S096007602030296X#fig0010) found that French nursing home residents who had recently received a bolus dose of vitamin D were more likely to survive a Covid-19 infection than residents who had not recently received a supplement. 92%  of the 57 people who received vitamin D survived, while 66% of the 9 people in the cooperator group survived. (Anweller et. al, October 2020)
 
+### Covid severity associated with serum vitamin D levels
 
 #### Pre-infection blood samples
 
