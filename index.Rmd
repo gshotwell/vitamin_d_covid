@@ -86,7 +86,9 @@ meta() %>%
 
 *Does not support link to vitamin D*
 
-- A [small trial](https://pubmed.ncbi.nlm.nih.gov/32960622/) did not find an association between vitamin D deficiency and Covid-19 severity. The study did find an association among younger patients. (Macaya et. all, September 2020)
+1) A [small trial](https://pubmed.ncbi.nlm.nih.gov/32960622/) did not find an association between vitamin D deficiency and Covid-19 severity. The study did find an association among younger patients. (Macaya et. all, September 2020)
+1) A [case-control study](https://www.researchsquare.com/article/rs-96491/v1) did not find that Covid positive patients had lower vitamin D levels than patients hospitalized with non-Covid pneumonia or a set of non-respiratory conditions. 
+The comparator groups in this study are a bit strange because low vitamin D levels are implicated in almost all of the diagnoses included in this study. See the comments associated with the paper.
 
 ### In vitro evidence
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus. (Chee Keng Mok et al, June 2020)
@@ -115,14 +117,19 @@ meta() %>%
 - Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/) (Gruber-Bzura, August 2018)
 - Vitamin D and [the anti-viral state](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308600/) (Beard et al, January 2011)
 
-# Governments recommending Vitamin D
+# Government guidance
+
+*Supports supplementation*
 
 - [Israel](https://www.theyeshivaworld.com/news/headlines-breaking-stories/1911344/health-ministry-urges-israelis-to-take-vitamin-d-to-fight-covid-19.html) started recommending vitamin D in October 2020.
 - The United Kingdom [changed its guidance](https://inews.co.uk/news/politics/vitamin-d-supplements-recommended-matt-hancock-covid-19-725284) to recommend vitamin D.
 - [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
-- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) (Website French National Academy, May 22 2020) vitamin D supplementation as a preventative and adjuvant therapy for Covid-19 infection.
+- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) 800 to 1,000 IU/day of vitamin D supplementation as a preventative and adjuvant therapy for Covid-19 infection.
+- A Swiss expert panel [recommends](sge-ssn.ch/media/Nutritional-status-in-supporting-a-well-functioning-immune-system-for-optimal-health-with-a-recommendation-for-Switzerland-1.pdf) that people supplement with 2,000 IU of vitamin D per day. 
 
+*Does not support supplementation*
 
+- NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) vitamin D supplementation. (Nice.org.u, June 29 2020)
 
 # Lit reviews and clinical guidance
 
@@ -136,6 +143,5 @@ meta() %>%
 - A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. (Ebadi et al, May 2020)
 - A [bmj report](https://nutrition.bmj.com/content/3/1/106) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. (Lanham-new, May 2020) 
 - A quarantine hospital in Egypt has [started providing](https://www.egypttoday.com/Article/1/88198/Doctors-in-Egypt%E2%80%99s-quarantine-hospitals-to-receive-million-Vitamin-D) (Egypt Today, News source, June 1st 2020) vitamin D to fronting medical workers. 
-- NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) vitamin D supplementation. (Nice.org.u, June 29 2020)
 - A [review of the evidence](https://nutrition.bmj.com/content/bmjnph/early/2020/05/13/bmjnph-2020-000089.full.pdf) finds that supplementing with vitamin D in accordance with government guidelines is a good idea, but there is no evidence to support supplementation rates higher than 4,000 IU/day. (Lanham-New et al, April 2020)
 - a [Commentary](https://www.metabolismjournal.com/article/S0026-0495(20)30186-4/) in Metabolism Journal calling for action to eliminate Vitamin D deficiencies, and recommending a higher Vitamin D advice during the pandemic of 1000-2000 IU a day. (Manson et al, July 23, 2020) 
