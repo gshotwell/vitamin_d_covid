@@ -5,6 +5,7 @@ output:
   rmarkdown::html_document:
     theme: lumen
 ---
+To make suggestions and changes see the Github repo: [Vitamin_d_covid](https://github.com/GShotwell/vitamin_d_covid/blob/master/index.Rmd)
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(metathis)
@@ -99,11 +100,11 @@ meta() %>%
 
 ### Ecological studies
 
-- A study out of [Northwestern University](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v3.full.pdf) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country. (Daneshkhah1 et al, April 2020)
+- A study out of [Northwestern University](https://link.springer.com/article/10.1007%2Fs40520-020-01677-y) found that the vitamin D status of a country's elderly population was associated with the number of severe cases of Covid-19 in that country. (Daneshkhah1 et al, April 2020)
 - There was a [strong correlation](https://www.medrxiv.org/content/10.1101/2020.06.24.20138644v1) between vitamin D levels and European mortality which increased over time.  (Chuen Wen Tan, June 2020)
 - UVB radiation, which the skin uses to manufacture vitamin D is [associated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586555#.XrA5awDBBLE.twitter) with lower death rates and case fatality rates. (Moozhipurath et al, May 1st 2020)
 - Covid-19 deaths-per-million appears to [vary by latitude](https://www.ncbi.nlm.nih.gov/pubmed/32311755). (Rhodes et al, June 2020)
-- Latitude [was not associated](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) with a proportional increase in cases during one week of March. (Jüni et al, June 2020)
+- Latitude [was not associated](https://www.cmaj.ca/content/192/21/E566) with a proportional increase in cases during one week of March. (Jüni et al, June 2020)
 - Latitude is a significant predictor of Covid mortality after [controlling for age](https://nutrition.bmj.com/content/3/1/118). (Rhodes et al, July 2020)
 - Vitamin D levels were [inversely associated](https://link.springer.com/article/10.1007/s40520-020-01619-8) with cases per million in Europe, but not with deaths per million. (Sing, Kaur, Kumar Sigh, August 2020)
 
