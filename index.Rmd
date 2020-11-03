@@ -117,6 +117,7 @@ The comparator groups in this study are a bit strange because low vitamin D leve
 - Latitude [was not associated](https://www.cmaj.ca/content/192/21/E566) with a proportional increase in cases during one week of March. (Jüni et al, June 2020)
 - Latitude is a significant predictor of Covid mortality after [controlling for age](https://nutrition.bmj.com/content/3/1/118). (Rhodes et al, July 2020)
 - Vitamin D levels were [inversely associated](https://link.springer.com/article/10.1007/s40520-020-01619-8) with cases per million in Europe, but not with deaths per million. (Sing, Kaur, Kumar Sigh, August 2020)
+- The fall 2020 outbreaks in Europe [appear to be correlated](https://www.medrxiv.org/content/10.1101/2020.10.28.20221176v2) with latitude but not temperature. (Warland, November 2020)
 
 # Vitamin D background and previous studies
 
