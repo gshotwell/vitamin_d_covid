@@ -133,9 +133,10 @@ The comparator groups in this study are a bit strange because low vitamin D leve
 - [Israel](https://www.theyeshivaworld.com/news/headlines-breaking-stories/1911344/health-ministry-urges-israelis-to-take-vitamin-d-to-fight-covid-19.html) started recommending vitamin D in October 2020.
 - The United Kingdom [changed its guidance](https://inews.co.uk/news/politics/vitamin-d-supplements-recommended-matt-hancock-covid-19-725284) to recommend vitamin D.
 - [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
-- The French National Academy of Medicine now [recommends](http://www.academie-medecine.fr/wp-content/uploads/2020/05/20.5.22-Vitamine-D-et-coronavirus-ENG.pdf) 800 to 1,000 IU/day of vitamin D supplementation as a preventative and adjuvant therapy for Covid-19 infection.
+- The French National Academy of Medicine [recommends](https://www.connexionfrance.com/French-news/French-doctors-advise-vitamin-D-to-counter-Covid-this-winter#.X6V58E6XMGU.twitter) that people over 60 be tested for vitamin D deficiency and given a bolus dose of 50,000 to 100,000 IU. It further recommends that all Covid positive patients take 800 to 1000 IU a day upon diagnosis.
 - A Swiss expert panel [recommends](https://www.sge-ssn.ch/media/Nutritional-status-in-supporting-a-well-functioning-immune-system-for-optimal-health-with-a-recommendation-for-Switzerland-1.pdf) that people supplement with 2,000 IU of vitamin D per day. 
 - New Zealand [provides](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/859AD0FC45E96D4300180B5C571959CD/S1368980016001683a.pdf/vitamin_d_status_and_its_predictors_in_new_zealand_agedcare_residents_eligible_for_a_governmentfunded_universal_vitamin_d_supplementation_programme.pdf) 50,000 IU monthly vitamin D supplementation to all aged care residents.
+- The Scottish government [will provide](https://www.thetimes.co.uk/article/coronavirus-in-scotland-vulnerable-will-receive-vitamin-d-supplements-zc8stdpkh) vulnerable populations with vitamin D supplementats. 
 
 *Does not support supplementation*
 
