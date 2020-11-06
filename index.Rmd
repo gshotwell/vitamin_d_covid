@@ -46,9 +46,13 @@ meta() %>%
 
 - A [small cohort trial](https://www.sciencedirect.com/science/article/pii/S0899900720303002)  found that just 16% of patients who received vitamin D, magnesium, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did  not receive DBM supplementation. (Chuen Wen Tan, October 2020)
 - A [retrospective study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690902) found that hospitalized patients who were treated with vitamin D were less likely to die than those who did not receive vitamin D. (Ling et all, October 2020)
-- [A quasi-experimental study](https://www.sciencedirect.com/science/article/pii/S096007602030296X#fig0010) found that French nursing home residents who had recently received a bolus dose of vitamin D were more likely to survive a Covid-19 infection than residents who had not recently received a supplement. 92%  of the 57 people who received vitamin D survived, while 66% of the 9 people in the cooperator group survived. (Anweller et. al, October 2020)
+- [A retrospective study](https://www.sciencedirect.com/science/article/pii/S096007602030296X#fig0010) found that French nursing home residents who had recently received a bolus dose of vitamin D were more likely to survive a Covid-19 infection than residents who had not recently received a supplement. 92%  of the 57 people who received vitamin D survived, while 66% of the 9 people in the cooperator group survived. (Anweller et. al, October 2020)
 
 ### Covid severity associated with serum vitamin D levels
+
+#### Meta analyses
+
+- A [metaanalysis](https://www.tandfonline.com/doi/full/10.1080/07315724.2020.1826005?src=recsys) of studies on Vitamin D and Covid-19 found that, overall, vitamin D was a risk factor for Covid-19, especially severe disease. (Ye et al, November 2020)
 
 #### Pre-infection blood samples
 
@@ -88,9 +92,10 @@ meta() %>%
 
 *Does not support link to vitamin D*
 
-1) A [small trial](https://pubmed.ncbi.nlm.nih.gov/32960622/) did not find an association between vitamin D deficiency and Covid-19 severity. The study did find an association among younger patients. (Macaya et. all, September 2020)
+1) A [small trial](https://pubmed.ncbi.nlm.nih.gov/32960622/) did not find an association between vitamin D deficiency and Covid-19 severity. The study did find an association among younger patients. (Macaya et. al, September 2020)
 1) A [case-control study](https://www.researchsquare.com/article/rs-96491/v1) did not find that Covid positive patients had lower vitamin D levels than patients hospitalized with non-Covid pneumonia or a set of non-respiratory conditions. 
-The comparator groups in this study are a bit strange because low vitamin D levels are implicated in almost all of the diagnoses included in this study. See the comments associated with the paper.
+The comparator groups in this study are a bit strange because low vitamin D levels are implicated in almost all of the diagnoses included in this study. See the comments associated with the paper. (Tomasti et al, October 2020)
+1) An [Italian study](https://econtent.hogrefe.com/doi/abs/10.1024/0300-9831/a000687) of 347 patients did not find that hospitalized Covid patients had lower serum vitamin D than non-Covid patients. The authors note that "Because a large portion of patients were below the suggested 30 ng/mL threshold, we can’t exclude that VitD supplementation, restoring normal levels, might be beneficial in reducing the risk of infection." (Ferrari & Locatelli, November 2020)
 
 ### In vitro evidence
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus. (Chee Keng Mok et al, June 2020)
