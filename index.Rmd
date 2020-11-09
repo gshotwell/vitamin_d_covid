@@ -96,6 +96,7 @@ meta() %>%
 1) A [case-control study](https://www.researchsquare.com/article/rs-96491/v1) did not find that Covid positive patients had lower vitamin D levels than patients hospitalized with non-Covid pneumonia or a set of non-respiratory conditions. 
 The comparator groups in this study are a bit strange because low vitamin D levels are implicated in almost all of the diagnoses included in this study. See the comments associated with the paper. (Tomasti et al, October 2020)
 1) An [Italian study](https://econtent.hogrefe.com/doi/abs/10.1024/0300-9831/a000687) of 347 patients did not find that hospitalized Covid patients had lower serum vitamin D than non-Covid patients. The authors note that "Because a large portion of patients were below the suggested 30 ng/mL threshold, we can’t exclude that VitD supplementation, restoring normal levels, might be beneficial in reducing the risk of infection." (Ferrari & Locatelli, November 2020)
+1) A [study](https://www.medrxiv.org/content/10.1101/2020.11.07.20227512v1) of 135 hospitalized patients in the Netherlands was not assoicated with need for mechanical ventilation or death. The author's note that vitamin K may be an important factor along with vitamin D. (Walk et al, November 2020)
 
 ### In vitro evidence
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus. (Chee Keng Mok et al, June 2020)
