@@ -110,6 +110,7 @@ The comparator groups in this study are a bit strange because low vitamin D leve
 
 ### In vitro evidence
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus. (Chee Keng Mok et al, June 2020)
+- An in vitro [study](https://www.biorxiv.org/content/10.1101/2020.12.02.408153v1) found that the antimicrobial peptide LL-37, which is upregulated by vitamin D, binds to the SARS-COV2 spike protein. The study "supports the prophylactic use of vitamin D to induce LL-37 that protects from SARS-CoV-2 infection, and the therapeutic administration of vitamin D for the treatment of COVID-19 patients". (Roth et al, November 2020)
 
 ### Non-clinical causal data
 
@@ -142,10 +143,11 @@ The comparator groups in this study are a bit strange because low vitamin D leve
 - Vitamin D and Influenza — [Prevention or Therapy?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121423/) (Gruber-Bzura, August 2018)
 - Vitamin D and [the anti-viral state](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308600/) (Beard et al, January 2011)
 
-# Government guidance
+# Clinical guidance
 
 *Supports supplementation*
 
+- The Frontline Covid-19 Critical Care Alliance [recommends](https://covid19criticalcare.com/) vitamin D as a Covid-19 therapeutic for inpatient, outpatient, and prophylactic use.
 - [Israel](https://www.theyeshivaworld.com/news/headlines-breaking-stories/1911344/health-ministry-urges-israelis-to-take-vitamin-d-to-fight-covid-19.html) started recommending vitamin D in October 2020.
 - [Slovenia](https://www.bmj.com/content/369/bmj.m1820/rr) has begun administering vitamin D to residents of nursing homes and health care workers. 
 - The French National Academy of Medicine [recommends](https://www.connexionfrance.com/French-news/French-doctors-advise-vitamin-D-to-counter-Covid-this-winter#.X6V58E6XMGU.twitter) that people over 60 be tested for vitamin D deficiency and given a bolus dose of 50,000 to 100,000 IU. It further recommends that all Covid positive patients take 800 to 1000 IU a day upon diagnosis.
