@@ -57,6 +57,7 @@ meta() %>%
 - [A retrospective study](https://www.sciencedirect.com/science/article/pii/S096007602030296X#fig0010) found that French nursing home residents who had recently received a bolus dose of vitamin D were more likely to survive a Covid-19 infection than residents who had not recently received a supplement. 92%  of the 57 people who received vitamin D survived, while 66% of the 9 people in the cooperator group survived. (Anweller et. al, October 2020)
 - [A retrospective study](https://www.mdpi.com/2072-6643/12/11/3377) found that regular bolus vitamin D supplementation was associated with less severe COVID-19 and better survival in frail elderly. (Anweller et. al, November 2020)
 - A [multi-center observational](https://www.mdpi.com/2072-6643/12/12/3799) study of 1,000 hospitalized Covid patients found that Cholecalciferol supplementation was associated with lower mortality. (Ling et al, December 2020)
+- An [observational study](https://www.aging-us.com/article/202307/text) of Italian nursing home residents found that vitamin D was associated with a lower risk of dying. The authors note that "[in] the absence of contraindications ... the administration of cholecalciferol in older subjects could be strongly advocated." (Cangiano et al, December 2020)
 
 ### Covid severity associated with serum vitamin D levels
 
