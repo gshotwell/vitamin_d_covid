@@ -157,11 +157,11 @@ The comparator groups in this study are a bit strange because low vitamin D leve
 - The French National Academy of Medicine [recommends](https://www.connexionfrance.com/French-news/French-doctors-advise-vitamin-D-to-counter-Covid-this-winter#.X6V58E6XMGU.twitter) that people over 60 be tested for vitamin D deficiency and given a bolus dose of 50,000 to 100,000 IU. It further recommends that all Covid positive patients take 800 to 1000 IU a day upon diagnosis.
 - A Swiss expert panel [recommends](https://www.sge-ssn.ch/media/Nutritional-status-in-supporting-a-well-functioning-immune-system-for-optimal-health-with-a-recommendation-for-Switzerland-1.pdf) that people supplement with 2,000 IU of vitamin D per day. 
 - New Zealand [provides](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/859AD0FC45E96D4300180B5C571959CD/S1368980016001683a.pdf/vitamin_d_status_and_its_predictors_in_new_zealand_agedcare_residents_eligible_for_a_governmentfunded_universal_vitamin_d_supplementation_programme.pdf) 50,000 IU monthly vitamin D supplementation to all aged care residents.
-- The Scottish government [will provide](https://www.thetimes.co.uk/article/coronavirus-in-scotland-vulnerable-will-receive-vitamin-d-supplements-zc8stdpkh) vulnerable populations with vitamin D supplementats. 
+- The Scottish government [will provide](https://www.thetimes.co.uk/article/coronavirus-in-scotland-vulnerable-will-receive-vitamin-d-supplements-zc8stdpkh) vulnerable populations with vitamin D supplements. 
 
 *Does not support supplementation*
 
-- NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) vitamin D supplementation. (Nice.org.u, June 29 2020)
+- NICE, an English clinical research group, [does not recommend](https://www.nice.org.uk/advice/es28/chapter/Key-messages) vitamin D supplementation for protection against COVID-19 (nice.org.uk, June 29 2020), although [NHS England already recommends](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/) vitamin D supplementation for bone health.
 
 # Lit reviews and clinical guidance
 
