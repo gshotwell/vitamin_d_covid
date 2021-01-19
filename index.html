@@ -235,6 +235,7 @@ color: #d14;
 a.anchor-section {margin-left: 10px; visibility: hidden; color: inherit;}
 a.anchor-section::before {content: '#';}
 .hasAnchor:hover a.anchor-section {visibility: visible;}
+ul > li > .anchor-section {display: none;}
 </style>
 <script>// Anchor sections v1.0 written by Atsushi Yasumoto on Oct 3rd, 2020.
 document.addEventListener('DOMContentLoaded', function() {
@@ -259,7 +260,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Add anchors
   h.forEach(function(x) {
     const id = x.id || section_id(x.parentElement);
-    if (id === '') {
+    if (id === '' || x.matches(':empty')) {
       return null;
     }
     let anchor = document.createElement('a');
@@ -343,6 +344,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -537,6 +539,7 @@ summary {
 <li>A <a href="https://link.springer.com/article/10.1007%2Fs00394-020-02411-0">study</a> of 74 hospitalized patients found that vitamin D deficiency was associated with Covid lung involvement, and mortality. (Abrishami et all, October 2020)</li>
 <li>A <a href="https://www.nature.com/articles/s41598-020-77093-z">prospective observational study</a> found that criticlaly ill Covid patients had higher rates of vitamin D deficiency than asymptomatic patients. (Jain et al, November 2020)</li>
 <li>A <a href="https://www.mdpi.com/2072-6643/12/12/3773/htm#">prospective observational study</a> of 30 Greek ICU patients found that vitamin D deficiency was associated with mortality. All of the patients who died had vitamin D levels below the median of 15.2 ng/mL.</li>
+<li>A <a href="https://www.researchsquare.com/article/rs-141034/v1">retrospective study</a> of 508 Iranian patients found that serum vitamin D and supplementation history was associated with better Covid disease progression.</li>
 </ol>
 <p><em>Does not support link to vitamin D</em></p>
 <ol style="list-style-type: decimal">

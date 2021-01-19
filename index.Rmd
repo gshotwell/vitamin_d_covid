@@ -102,6 +102,7 @@ meta() %>%
 1) A [study](https://link.springer.com/article/10.1007%2Fs00394-020-02411-0) of 74 hospitalized patients found that vitamin D deficiency was associated with Covid lung involvement, and mortality. (Abrishami et all, October 2020)
 1) A [prospective observational study](https://www.nature.com/articles/s41598-020-77093-z) found that criticlaly ill Covid patients had higher rates of vitamin D deficiency than asymptomatic patients. (Jain et al, November 2020)
 1) A [prospective observational study](https://www.mdpi.com/2072-6643/12/12/3773/htm#) of 30 Greek ICU patients found that vitamin D deficiency was associated with mortality. All of the patients who died had vitamin D levels below the median of 15.2 ng/mL.
+1) A [retrospective study](https://www.researchsquare.com/article/rs-141034/v1) of 508 Iranian patients found that serum vitamin D and supplementation history was associated with better Covid disease progression. 
 
 *Does not support link to vitamin D*
 
