@@ -105,6 +105,7 @@ meta() %>%
 19) A [prospective observational study](https://www.mdpi.com/2072-6643/12/12/3773/htm#) of 30 Greek ICU patients found that vitamin D deficiency was associated with mortality. All of the patients who died had vitamin D levels below the median of 15.2 ng/mL. (Vassiliou et al, January 2021)
 20) A [retrospective study](https://www.researchsquare.com/article/rs-141034/v1) of 508 Iranian patients found that serum vitamin D and supplementation history was associated with better Covid disease progression. (Vasheghani et al, January 2021)
 21) An [observational study](https://link.springer.com/article/10.1007/s12020-020-02597-7) of 330 hospitalized Armenian Covid patients found that hospitalized patients had lower vitamin D than healthy controls. 45% of patients had bloog levels below 12 nm/ml which the author's note is "a threshold value acknowledged by all authoritative bodies to be associated with frank, unequivocal vitamin D deficiency." (Hutchings et all, January 2021)
+22) A multicenter [observational study](https://www.mayoclinicproceedings.org/article/S0025-6196(21)00001-X/fulltext#.YBBOhU265RU.twitter) of 144 hospitalized patients found that serum vitamin D levels were associated with in-hospital mortality and need for mechanical ventilation. (Angelidi et al, January 2021)
 
 *Does not support link to vitamin D*
 
