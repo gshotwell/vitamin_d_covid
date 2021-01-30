@@ -7,7 +7,7 @@ output:
     anchor_sections: true
 ---
 
-To make suggestions and changes see the Github repo: [Vitamin_d\_covid](https://github.com/GShotwell/vitamin_d_covid/blob/master/index.Rmd)
+To make suggestions and changes see the Github repo: [Vitamin_d\_covid](https://github.com/GShotwell/vitamin_d_covid/blob/master/index.Rmd). For more on vitamin D and covid, see [my blog](https://shotwell.ca/).
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(metathis)
@@ -106,6 +106,7 @@ meta() %>%
 20) A [retrospective study](https://www.researchsquare.com/article/rs-141034/v1) of 508 Iranian patients found that serum vitamin D and supplementation history was associated with better Covid disease progression. (Vasheghani et al, January 2021)
 21) An [observational study](https://link.springer.com/article/10.1007/s12020-020-02597-7) of 330 hospitalized Armenian Covid patients found that hospitalized patients had lower vitamin D than healthy controls. 45% of patients had bloog levels below 12 nm/ml which the author's note is "a threshold value acknowledged by all authoritative bodies to be associated with frank, unequivocal vitamin D deficiency." (Hutchings et all, January 2021)
 22) A multicenter [observational study](https://www.mayoclinicproceedings.org/article/S0025-6196(21)00001-X/fulltext#.YBBOhU265RU.twitter) of 144 hospitalized patients found that serum vitamin D levels were associated with in-hospital mortality and need for mechanical ventilation. (Angelidi et al, January 2021)
+23) A [cohort study](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26832) of 487 patients found that vitamin D deficiency was associated with PCR positivity, d-dimer status, CRP, and the number of affected lung segments in COVID‐19 positive patients. (Demir, Demir, Aygun, January 2021)
 
 *Does not support link to vitamin D*
 
