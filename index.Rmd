@@ -112,6 +112,8 @@ meta() %>%
 22) A multicenter [observational study](https://www.mayoclinicproceedings.org/article/S0025-6196(21)00001-X/fulltext#.YBBOhU265RU.twitter) of 144 hospitalized patients found that serum vitamin D levels were associated with in-hospital mortality and need for mechanical ventilation. (Angelidi et al, January 2021)
 23) A [cohort study](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26832) of 487 patients found that vitamin D deficiency was associated with PCR positivity, d-dimer status, CRP, and the number of affected lung segments in COVID‐19 positive patients. (Demir, Demir, Aygun, January 2021)
 24) An [observational study](https://www.mdpi.com/2072-6643/13/3/717) of 64 elderly Covid patients found that they had lower vitamin D levels than matched controls. The median vitamin D level amond Covid patients was 7.9 ng/ml which is profoundly low. (Sulli et al, February 2021)
+25) A study of [52 Covid patients](https://pubmed.ncbi.nlm.nih.gov/33658032/) found that 80% of them were vitamin D deficient and that vitamin D levels were correlated with various biomarkers of disease activity. (Ricci et al, March 2021)
+26) A study of 3[48 Italian Covid patients](https://pubmed.ncbi.nlm.nih.gov/33666876/) found that vitamin D deficiency and secondary hyperparathyroidism were associated with worse Covid outcomes. The median vitamin D level was 12.1 ng/mL. (Mazziotti et al, March 2021)
 
 *Does not support link to vitamin D*
 
