@@ -117,6 +117,7 @@ meta() %>%
 24) An [observational study](https://www.mdpi.com/2072-6643/13/3/717) of 64 elderly Covid patients found that they had lower vitamin D levels than matched controls. The median vitamin D level amond Covid patients was 7.9 ng/ml which is profoundly low. (Sulli et al, February 2021)
 25) A study of [52 Covid patients](https://pubmed.ncbi.nlm.nih.gov/33658032/) found that 80% of them were vitamin D deficient and that vitamin D levels were correlated with various biomarkers of disease activity. (Ricci et al, March 2021)
 26) A study of 3[48 Italian Covid patients](https://pubmed.ncbi.nlm.nih.gov/33666876/) found that vitamin D deficiency and secondary hyperparathyroidism were associated with worse Covid outcomes. The median vitamin D level was 12.1 ng/mL. (Mazziotti et al, March 2021)
+27) A chart review [study of 287 hospitalized patients](https://www.endocrinepractice.org/article/S1530-891X(21)00057-4/fulltext#.YEeMQftToos.twitter) found that vitamin D sufficiency reduced the risk of Covid related mortality.
 
 *Does not support link to vitamin D*
 
