@@ -118,6 +118,7 @@ meta() %>%
 25) A study of [52 Covid patients](https://pubmed.ncbi.nlm.nih.gov/33658032/) found that 80% of them were vitamin D deficient and that vitamin D levels were correlated with various biomarkers of disease activity. (Ricci et al, March 2021)
 26) A study of 3[48 Italian Covid patients](https://pubmed.ncbi.nlm.nih.gov/33666876/) found that vitamin D deficiency and secondary hyperparathyroidism were associated with worse Covid outcomes. The median vitamin D level was 12.1 ng/mL. (Mazziotti et al, March 2021)
 27) A chart review [study of 287 hospitalized patients](https://www.endocrinepractice.org/article/S1530-891X(21)00057-4/fulltext#.YEeMQftToos.twitter) found that vitamin D sufficiency reduced the risk of Covid related mortality.
+28) A [Mexican study](https://www.medrxiv.org/content/10.1101/2021.03.12.21253490v2) of 551 hospitalized patients found that low vitamin D levels were present in 45% of them, and was associated with an increased mortality risk. (Vanegas-Cedillo et al, March 2021)
 
 *Does not support link to vitamin D*
 
