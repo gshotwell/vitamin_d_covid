@@ -57,16 +57,18 @@ meta() %>%
 
 **Non-Randomized**
 
--   A [ward randomized tria](https://pubmed.ncbi.nlm.nih.gov/34097036/)l of 984 patients found that those supplemented with calcifediol had a lower ICU admissions rate and mortality rate than the control wards. (Nogues et all, June 2021)
--   A [large propensity score matched study](https://www.medrxiv.org/content/10.1101/2021.04.27.21255937v1) of 16,000 patients found that calcifediol and cholecalciferol supplementation were associated with large reductions in Covid--19 mortality. (Loucera et al, April 2021)
--   A [cohort study](https://www.mdpi.com/2072-6643/13/6/1760) of 574 patients in Spain found that calcifediol supplementation was associated with a significant decrease in in-hospital mortality with an adjusted odds ratio of 0.16. ([Alcala-Diaz](https://sciprofiles.com/profile/687346) et al, May 2021)
--   A [small cohort trial](https://www.sciencedirect.com/science/article/pii/S0899900720303002) found that just 16% of patients who received vitamin D, magnesium, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did not receive DBM supplementation. (Chuen Wen Tan, October 2020)
--   A [retrospective study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690902) found that hospitalized patients who were treated with vitamin D were less likely to die than those who did not receive vitamin D. (Ling et all, October 2020)
--   [A retrospective study](https://www.sciencedirect.com/science/article/pii/S096007602030296X#fig0010) found that French nursing home residents who had recently received a bolus dose of vitamin D were more likely to survive a Covid-19 infection than residents who had not recently received a supplement. 92% of the 57 people who received vitamin D survived, while 66% of the 9 people in the cooperator group survived. (Anweller et. al, October 2020)
--   [A retrospective study](https://www.mdpi.com/2072-6643/12/11/3377) found that regular bolus vitamin D supplementation was associated with less severe COVID-19 and better survival in frail elderly. (Anweller et. al, November 2020)
--   A [multi-center observational](https://www.mdpi.com/2072-6643/12/12/3799) study of 1,000 hospitalized Covid patients found that Cholecalciferol supplementation was associated with lower mortality. (Ling et al, December 2020)
--   An [observational study](https://www.aging-us.com/article/202307/text) of Italian nursing home residents found that vitamin D was associated with a lower risk of dying. The authors note that "[in] the absence of contraindications ... the administration of cholecalciferol in older subjects could be strongly advocated." (Cangiano et al, December 2020)
--   A [retrospective Catalonian study](https://www.preprints.org/manuscript/202104.0173/v1) found that patients with chronic kidney disease who were treated with calcitriol were less likely to develop severe Covid or die than matched controls. (Oristrell et al, April 2021)
+*Supports vitamin D*
+
+1)  A [ward randomized tria](https://pubmed.ncbi.nlm.nih.gov/34097036/)l of 984 patients found that those supplemented with calcifediol had a lower ICU admissions rate and mortality rate than the control wards. (Nogues et all, June 2021)
+2)  A [large propensity score matched study](https://www.medrxiv.org/content/10.1101/2021.04.27.21255937v1) of 16,000 patients found that calcifediol and cholecalciferol supplementation were associated with large reductions in Covid--19 mortality. (Loucera et al, April 2021)
+3)  A [cohort study](https://www.mdpi.com/2072-6643/13/6/1760) of 574 patients in Spain found that calcifediol supplementation was associated with a significant decrease in in-hospital mortality with an adjusted odds ratio of 0.16. ([Alcala-Diaz](https://sciprofiles.com/profile/687346) et al, May 2021)
+4)  A [small cohort trial](https://www.sciencedirect.com/science/article/pii/S0899900720303002) found that just 16% of patients who received vitamin D, magnesium, and vitamin B12 required oxygen compared with 61.5% of the previous cohort who did not receive DBM supplementation. (Chuen Wen Tan, October 2020)
+5)  A [retrospective study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690902) found that hospitalized patients who were treated with vitamin D were less likely to die than those who did not receive vitamin D. (Ling et all, October 2020)
+6)  [A retrospective study](https://www.sciencedirect.com/science/article/pii/S096007602030296X#fig0010) found that French nursing home residents who had recently received a bolus dose of vitamin D were more likely to survive a Covid-19 infection than residents who had not recently received a supplement. 92% of the 57 people who received vitamin D survived, while 66% of the 9 people in the cooperator group survived. (Anweller et. al, October 2020)
+7)  [A retrospective study](https://www.mdpi.com/2072-6643/12/11/3377) found that regular bolus vitamin D supplementation was associated with less severe COVID-19 and better survival in frail elderly. (Anweller et. al, November 2020)
+8)  A [multi-center observational](https://www.mdpi.com/2072-6643/12/12/3799) study of 1,000 hospitalized Covid patients found that Cholecalciferol supplementation was associated with lower mortality. (Ling et al, December 2020)
+9)  An [observational study](https://www.aging-us.com/article/202307/text) of Italian nursing home residents found that vitamin D was associated with a lower risk of dying. The authors note that "[in] the absence of contraindications ... the administration of cholecalciferol in older subjects could be strongly advocated." (Cangiano et al, December 2020)
+10) A [retrospective Catalonian study](https://www.preprints.org/manuscript/202104.0173/v1) found that patients with chronic kidney disease who were treated with calcitriol were less likely to develop severe Covid or die than matched controls. (Oristrell et al, April 2021)
 
 ### Covid severity associated with serum vitamin D levels
 
@@ -190,10 +192,11 @@ meta() %>%
 
 *If you only have time for one review*
 
--   [A Basic Review of the Preliminary Evidence That COVID-19 Risk and Severity Is Increased in Vitamin D Deficiency](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00513/full) note that this review only included studies which were available prior to July 2020, so did not include the COVIDIOL pilot RCT. (Benskin, Sept 2020)
+-   [The importance of vitamin d metabolism as a potential prophylactic, immunoregulatory and neuroprotective treatment for COVID-19](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02488-5) (Yu et all, August 2020)
 
 *Other reviews*
 
+-   [A Basic Review of the Preliminary Evidence That COVID-19 Risk and Severity Is Increased in Vitamin D Deficiency](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00513/full) note that this review only included studies which were available prior to July 2020, so did not include the COVIDIOL pilot RCT. (Benskin, Sept 2020)
 -   [This review](https://www.preprints.org/manuscript/202005.0265/v1) of potential vitamin D mechanisms of action provides some useful history on the origin of vitamin D dosing recommendations. They also review their clinical guidelines after treating several thousand patients with 5000-10000 IU/day, including recognizing and resolving hypercalcemia or other adverse events. (McCullough, May 15 2020)
 -   A [review in Nature](https://www.nature.com/articles/s41430-020-0661-0) suggests that all patients should be monitored and potentially treated for vitamin D deficiency. (Ebadi et al, May 2020)
 -   A [bmj report](https://nutrition.bmj.com/content/3/1/106) which is generally critical of the connection between Covid-19 and vitamin D nevertheless concludes that supplementation according to government health guidelines (no more than 4,000 IU/day) is sensible for most people. (Lanham-new, May 2020)
