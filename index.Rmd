@@ -69,6 +69,7 @@ meta() %>%
 8)  A [multi-center observational](https://www.mdpi.com/2072-6643/12/12/3799) study of 1,000 hospitalized Covid patients found that Cholecalciferol supplementation was associated with lower mortality. (Ling et al, December 2020)
 9)  An [observational study](https://www.aging-us.com/article/202307/text) of Italian nursing home residents found that vitamin D was associated with a lower risk of dying. The authors note that "[in] the absence of contraindications ... the administration of cholecalciferol in older subjects could be strongly advocated." (Cangiano et al, December 2020)
 10) A [retrospective Catalonian study](https://www.preprints.org/manuscript/202104.0173/v1) found that patients with chronic kidney disease who were treated with calcitriol were less likely to develop severe Covid or die than matched controls. (Oristrell et al, April 2021)
+11) A large [restrospective cohort study](https://link.springer.com/epdf/10.1007/s40618-021-01639-9?sharing_token=Az_nLefqGViKiasX4Tu3cfe4RwlQNchNByi7wbcMAY7ojMLtwib0-XlE4LmNRgUkAMN1i1-7qBBT83rsQhG2d9tvWZe3UXmxNNFzm8P54rcPZyk2535mgZLd-2dimfxowHBz0WPkIk0C3BEaF11cM7n8crYxSqOL66T-8rcIP_s%3D) of Spanish Covid patients found that patients who had taken calcifediol or cholecalciferol had better who achieved serum levels greater than 30 ng/ml had better Covid outcomes than propensity matched controls. (Oristrell et al, July 2021)
 
 ### Covid severity associated with serum vitamin D levels
 
