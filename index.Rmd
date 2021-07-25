@@ -54,6 +54,7 @@ meta() %>%
 *Does not support vitamin D link*
 
 -   A randomized, placebo controlled [trial](https://www.medrxiv.org/content/10.1101/2020.11.16.20232397v1) of 240 patients found that a one-time supplementation of 200,000 IU of vitamin D, on average 10 days after symptom onset did not reduce the length of hospital stay in severe Covid-19 patients. The treatment was safe and well tolerated.
+-   A [study of 175](https://pubmed.ncbi.nlm.nih.gov/34302132/) ICU patients found that high-dose paraternal vitamin D did not reduce the need for mechanical ventilation or death. Note that vitamin D was administered after ICU admission. (Güven and Gültekin, July 2021)
 
 **Non-Randomized**
 
