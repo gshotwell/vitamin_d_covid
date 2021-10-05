@@ -74,6 +74,11 @@ meta() %>%
 10) An [observational study](https://www.aging-us.com/article/202307/text) of Italian nursing home residents found that vitamin D was associated with a lower risk of dying. The authors note that "[in] the absence of contraindications ... the administration of cholecalciferol in older subjects could be strongly advocated." (Cangiano et al, December 2020)
 11) A [retrospective Catalonian study](https://www.preprints.org/manuscript/202104.0173/v1) found that patients with chronic kidney disease who were treated with calcitriol were less likely to develop severe Covid or die than matched controls. (Oristrell et al, April 2021)
 12) A large [restrospective cohort study](https://link.springer.com/epdf/10.1007/s40618-021-01639-9?sharing_token=Az_nLefqGViKiasX4Tu3cfe4RwlQNchNByi7wbcMAY7ojMLtwib0-XlE4LmNRgUkAMN1i1-7qBBT83rsQhG2d9tvWZe3UXmxNNFzm8P54rcPZyk2535mgZLd-2dimfxowHBz0WPkIk0C3BEaF11cM7n8crYxSqOL66T-8rcIP_s%3D) of Spanish Covid patients found that patients who had taken calcifediol or cholecalciferol had better who achieved serum levels greater than 30 ng/ml had better Covid outcomes than propensity matched controls. (Oristrell et al, July 2021)
+13) A [Turkish study](https://pubmed.ncbi.nlm.nih.gov/34570577/) found that hospitalized vitamin D deficient patients who were supplemented with 300,000 IU of vitamin D had a lower mortality rate than controls. (Yidiz et al, September 2021)
+
+*Does not support vitamin D*
+
+1.  A [cohort study](https://www.nature.com/articles/s41430-021-00984-5) of 163 turkish patients found that a 300,000 IU of vitamin D administered to severely ill patients in the ICU found that while patients treated with vitamin D had a lower rate of mortality and intubation, this difference was not significant. ([Güven](https://www.nature.com/articles/s41430-021-00984-5#auth-Mehmet-G_ven) and [Gültekin](https://www.nature.com/articles/s41430-021-00984-5#auth-Hamza-G_ltekin), September 2021)
 
 ### Covid severity associated with serum vitamin D levels
 
