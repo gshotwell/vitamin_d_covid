@@ -9,7 +9,9 @@ output:
 
 Last update `r Sys.Date()`.
 
-To make suggestions and changes see the Github repo: [Vitamin_d\_covid](https://github.com/GShotwell/vitamin_d_covid/blob/master/index.Rmd). For more on vitamin D and Covid, see [my blog](https://shotwell.ca/). Note that as of fall 2021, I am no longer tracking retrospective studies unless they have are able to reach novel conclusions.
+To make suggestions and changes see the Github repo: [Vitamin_d\_covid](https://github.com/GShotwell/vitamin_d_covid/blob/master/index.Rmd).
+For more on vitamin D and Covid, see [my blog](https://shotwell.ca/).
+Note that as of fall 2021, I am no longer tracking retrospective studies unless they have are able to reach novel conclusions.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(metathis)
@@ -58,6 +60,7 @@ meta() %>%
 
 -   A randomized, placebo controlled [trial](https://www.medrxiv.org/content/10.1101/2020.11.16.20232397v1) of 240 patients found that a one-time supplementation of 200,000 IU of vitamin D, on average 10 days after symptom onset did not reduce the length of hospital stay in severe Covid-19 patients. The treatment was safe and well tolerated.
 -   A [study of 175](https://pubmed.ncbi.nlm.nih.gov/34302132/) ICU patients found that high-dose paraternal vitamin D did not reduce the need for mechanical ventilation or death. Note that vitamin D was administered after ICU admission. (Güven and Gültekin, July 2021)
+-   A [study of 170](https://www.medrxiv.org/content/10.1101/2022.01.31.22270036v1?rss=1) outpatients found that calcifediol supplementation did not improve symptom resolution. Note that vitamin D levels in the placebo arm were high (37 ng/ml at baseline). (Bishop et al, February 2022)
 
 **Non-Randomized**
 
@@ -105,7 +108,9 @@ meta() %>%
 
 *Does not support vitamin D link*
 
--   Vitamin D levels between 2006-2010 [were associated](https://www.sciencedirect.com/science/article/pii/S1871402120301156) with Covid-19 mortality, but not after controlling for other variables in the data set. It's hard to make inferences from 10 year old blood samples because there's a causal story in which low vitamin D in 2010 *increases* vitamin D in 2020 because that group is likely to supplement. (Hastie et al, July 2020)
+-   Vitamin D levels between 2006-2010 [were associated](https://www.sciencedirect.com/science/article/pii/S1871402120301156) with Covid-19 mortality, but not after controlling for other variables in the data set.
+    It's hard to make inferences from 10 year old blood samples because there's a causal story in which low vitamin D in 2010 *increases* vitamin D in 2020 because that group is likely to supplement.
+    (Hastie et al, July 2020)
 
     -   A [subsequent analysis](https://watermark.silverchair.com/nqaa381.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArgwggK0BgkqhkiG9w0BBwagggKlMIICoQIBADCCApoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMQAFMsJ4X93_BH5VLAgEQgIICaytPLWaUFIpUrBMAkKti3wk0Omi_cu6YIoZ9qjM6SvLsDcD8uzusFXXj0xvRC9-0LNzgoMybl5F9tl85zKOnsTd_2D0FA7mokGFDI_aYnDo6g28EEQWpaZ8NZbh3YpA1w6wuYi3h0Q5T4HVlYeMpPuLQkk5xzpDDU4e2kxmxZd1xonoUbSKqostOZS_mZQ1iHvhZDPhonwueilQLpWXDK0Ul4-VwdUqFjgVDUGaZUNaEadKo4X6AbQ5cLxrIU4WrRRroAv6oPQcjZNKQN7bYIQOH2BcP4EgxwhsptC3z8EApoZszRHH0gTLSrVuXW4lby1e1tdasRifZtb-h_KSC_NsDD5i7TOTrzL26-AZGHfioTWQDsG3SSaCbd1GCr1Xy5IcvD1hpckvU6ZzSdmu2JBmCSz1BEdnwmaFbPsR3Sj9Z4mm9HoqDjbi8wxlJJnO7IfoUfTGYVO-k_BHcT0jhpNH46fzqP6scW72u2_60832kKtwbFbDqnJBA1t5LMwWR9SqZzSuGy6s1ynmuQhZWWIo0Wm85L8VU3DNVCYjnEx1PcXxr8_uBkPwcnDeBwcwlRk3UQfFiaTCo-4vQy6AQF6I32RNFpBuagTlt4gZbTG2zw5UEE4fIEQfaYc-zIwF36u-87Augb9gFmIs6S2zlyOAej_9MllUdezbAHK5QJgoVhGJfhgSa4C8l3TqJa54lFGAYfsr1rzhUjGs34wkB5w8ELlGw205ISyR_Zh5CKTY0JhUabDykBN_zdTRzvuXiO_J0Js0HX5NHm-UnwyCwR8qyW2OwVETk45bwRiUp1ww5wwyZo8e-vBHFDn4) of the same dataset concluded that habitual vitamin D supplementation led to reduced Covid severity after controlling for factors like race, income, and comorbidities. (Ma et all, January 2021)
 
