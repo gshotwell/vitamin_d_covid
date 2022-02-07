@@ -105,6 +105,7 @@ meta() %>%
 7)  A r[etrospective study](https://www.medrxiv.org/content/10.1101/2021.06.04.21258358v1) of 1176 Israeli patients found that pre-infection vitamin D levels were associated with disease severity and mortality. (Dror et al, June 2021)
 8)  A [retrospective study](https://pubmed.ncbi.nlm.nih.gov/34139758/) of 80,670 patients found that pre-infection vitamin D deficiency was associated with a higher rate of hospitalizations. ([Jude](https://pubmed.ncbi.nlm.nih.gov/?term=Jude+EB&cauthor_id=34139758) et al, June 2021)
 9)  A [prospective observational study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255132#sec012) found that Black women with vitamin D deficiency were more likely to test positive than women without vitamin D deficiency. (Cozier et. al, July 2021)
+10) An [Israeli study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263069) found that vitamin D deficient people were 14x more likely to contract severe Covid than people with high levels of vitamin D. (Dror et al, February 2022)
 
 *Does not support vitamin D link*
 
