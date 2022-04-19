@@ -11,7 +11,7 @@ Last update `r Sys.Date()`.
 
 To make suggestions and changes see the Github repo: [Vitamin_d\_covid](https://github.com/GShotwell/vitamin_d_covid/blob/master/index.Rmd).
 For more on vitamin D and Covid, see [my blog](https://shotwell.ca/).
-Note that as of fall 2021, I am no longer tracking retrospective studies unless they have are able to reach novel conclusions.
+Note that as of fall 2021, I am no longer tracking retrospective studies.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(metathis)
@@ -33,14 +33,6 @@ meta() %>%
   )
 ```
 
-# The argument for supplementation
-
--   Vitamin D reduces the risk of [other](https://www.bmj.com/content/356/bmj.i6583) acute respiratory infections. One interesting finding of this meta-analysis is that people who were very deficient (less than 25 nmol/L) saw the largest protective effect with an adjusted odd ratio of 0.58 and a 95% CI of 0.40 to 0.82. These are the same populations which seem to be at risk for severe Covid-19
--   Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus
--   Patients treated with calcifediol are [less likely](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) to be admitted to the ICU than controls
--   Several studies have now observed lower vitamin D levels among severe Covid-19 patients
--   [Vitamin D is very low risk](https://www.preprints.org/manuscript/202005.0265/v1) an adverse events of vitamin D supplementation can be easily managed by clinicians
-
 # Direct research on vitamin D and Covid
 
 ### Supplementation studies
@@ -55,12 +47,14 @@ meta() %>%
 -   A randomized [open-label trial](https://pubmed.ncbi.nlm.nih.gov/34202578/) of 69 hospitalized patients found that those who received 5,000 IU of vitamin D daily recovered from cough and ageusia more quickly than those who received 1,000 IU. This study seems to suffer from the multiple testing problem and its conclusions should be treated with a grain of salt. ([Sabico](https://pubmed.ncbi.nlm.nih.gov/?term=Sabico+S&cauthor_id=34202578) et al, August 2021)
 -   A randomized controlled [open-label trial](https://www.sciencedirect.com/science/article/pii/S8756328221003410?via%3Dihub) of 50 hospitalized Covid patients found that calcitriol supplementation improved the respiratory status (SpO2/FIO2) of treated patients. (Elamir et al, September 2021)
 -   A randomized, blinded, [placebo controlled trial](https://www.endocrinepractice.org/article/S1530-891X(21)01259-3/fulltext) (n = 106) found that patients treated with low dose calcifediol (25 ug) had a better neutrophile to lymphocyte ration than controls. The trial did not detect a significant difference in mortality, ICU admission, or length of hospital stay. ([Maghbooli](https://www.endocrinepractice.org/article/S1530-891X(21)01259-3/fulltext# "Correspondence information about the author Zhila Maghbooli, Ph.D") et al, October 2021)
+-   A randomized, blinded, [placebo controlled trial](https://www.sciencedirect.com/science/article/pii/S0188440922000455?via%3Dihub) (n = 198) of health care workers in Mexico city found that vitamin D supplementation reduced Covid-19 infection. The relative risk was 0.23 with a CI between 0.09--0.55. (Keever et al, April 2022)
 
 *Does not support vitamin D link*
 
 -   A randomized, placebo controlled [trial](https://www.medrxiv.org/content/10.1101/2020.11.16.20232397v1) of 240 patients found that a one-time supplementation of 200,000 IU of vitamin D, on average 10 days after symptom onset did not reduce the length of hospital stay in severe Covid-19 patients. The treatment was safe and well tolerated.
 -   A [study of 175](https://pubmed.ncbi.nlm.nih.gov/34302132/) ICU patients found that high-dose paraternal vitamin D did not reduce the need for mechanical ventilation or death. Note that vitamin D was administered after ICU admission. (Güven and Gültekin, July 2021)
 -   A [study of 170](https://www.medrxiv.org/content/10.1101/2022.01.31.22270036v1?rss=1) outpatients found that calcifediol supplementation did not improve symptom resolution. Note that vitamin D levels in the placebo arm were high (37 ng/ml at baseline). (Bishop et al, February 2022)
+-   A [RCT of 6200 people](https://www.medrxiv.org/content/10.1101/2022.03.22.22271707v1) found that vitamin D supplementation of 3,200 IU/day did not reduce Covid-19 infection or severity as compared with 800 IU/day or no-offer groups. There was a very high vaccination rate in all arms of the trial which may have overwhelmed any potential treatment effect. (Jolliffe et al, March 2022)
 
 **Non-Randomized**
 
@@ -75,7 +69,7 @@ meta() %>%
 7)  [A retrospective study](https://www.mdpi.com/2072-6643/12/11/3377) found that regular bolus vitamin D supplementation was associated with less severe COVID-19 and better survival in frail elderly. (Anweller et. al, November 2020)
 8)  A [follow-up study](https://www.mdpi.com/2072-6643/12/11/3377) found that geriatric Covid patients who received regular vitamin D supplementation prior to infection were less likely to experience severe disease or to die than patients who either were not supplemented, or were supplemented after infection. ((Anweller et. al, July 2021)
 9)  A [multi-center observational](https://www.mdpi.com/2072-6643/12/12/3799) study of 1,000 hospitalized Covid patients found that Cholecalciferol supplementation was associated with lower mortality. (Ling et al, December 2020)
-10) An [observational study](https://www.aging-us.com/article/202307/text) of Italian nursing home residents found that vitamin D was associated with a lower risk of dying. The authors note that "\[in\] the absence of contraindications ... the administration of cholecalciferol in older subjects could be strongly advocated." (Cangiano et al, December 2020)
+10) An [observational study](https://www.aging-us.com/article/202307/text) of Italian nursing home residents found that vitamin D was associated with a lower risk of dying. The authors note that "$$in$$ the absence of contraindications ... the administration of cholecalciferol in older subjects could be strongly advocated." (Cangiano et al, December 2020)
 11) A [retrospective Catalonian study](https://www.preprints.org/manuscript/202104.0173/v1) found that patients with chronic kidney disease who were treated with calcitriol were less likely to develop severe Covid or die than matched controls. (Oristrell et al, April 2021)
 12) A large [restrospective cohort study](https://link.springer.com/epdf/10.1007/s40618-021-01639-9?sharing_token=Az_nLefqGViKiasX4Tu3cfe4RwlQNchNByi7wbcMAY7ojMLtwib0-XlE4LmNRgUkAMN1i1-7qBBT83rsQhG2d9tvWZe3UXmxNNFzm8P54rcPZyk2535mgZLd-2dimfxowHBz0WPkIk0C3BEaF11cM7n8crYxSqOL66T-8rcIP_s%3D) of Spanish Covid patients found that patients who had taken calcifediol or cholecalciferol had better who achieved serum levels greater than 30 ng/ml had better Covid outcomes than propensity matched controls. (Oristrell et al, July 2021)
 13) A [Turkish study](https://pubmed.ncbi.nlm.nih.gov/34570577/) found that hospitalized vitamin D deficient patients who were supplemented with 300,000 IU of vitamin D had a lower mortality rate than controls. (Yidiz et al, September 2021)
@@ -155,7 +149,7 @@ meta() %>%
 2)  A [case-control study](https://www.researchsquare.com/article/rs-96491/v1) did not find that Covid positive patients had lower vitamin D levels than patients hospitalized with non-Covid pneumonia or a set of non-respiratory conditions. The comparator groups in this study are a bit strange because low vitamin D levels are implicated in almost all of the diagnoses included in this study. See the comments associated with the paper. (Tomasti et al, October 2020)
 3)  An [Italian study](https://econtent.hogrefe.com/doi/abs/10.1024/0300-9831/a000687) of 347 patients did not find that hospitalized Covid patients had lower serum vitamin D than non-Covid patients. The authors note that "Because a large portion of patients were below the suggested 30 ng/mL threshold, we can't exclude that VitD supplementation, restoring normal levels, might be beneficial in reducing the risk of infection." (Ferrari & Locatelli, November 2020)
 4)  A [study](https://www.medrxiv.org/content/10.1101/2020.11.07.20227512v1) of 135 hospitalized patients in the Netherlands was not assoicated with need for mechanical ventilation or death. The author's note that vitamin K may be an important factor along with vitamin D. (Walk et al, November 2020)
-5)  An [Indian study](https://www.researchsquare.com/article/rs-129238/v1?s=09) found that there was no difference in clinical outcome between vitamin D sufficient individuals ( > 30 nmol/L) and insufficient individuals. (Jevalikar et al, December 2020)
+5)  An [Indian study](https://www.researchsquare.com/article/rs-129238/v1?s=09) found that there was no difference in clinical outcome between vitamin D sufficient individuals ( \> 30 nmol/L) and insufficient individuals. (Jevalikar et al, December 2020)
 6)  [A study](https://www.nature.com/articles/s41598-021-85809-y) of 400 hospitalized patients found no association between vitamin D levels and Covid outcomes. However, pre-admission supplementation habits were not measured and the vitamin D replete group were significantly older and had more comorbidities than the vitamin D deficient group. (Jevalikar et all, March 2021)
 
 ### In vitro evidence (Out of date)
